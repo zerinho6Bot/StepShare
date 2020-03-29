@@ -1,6 +1,18 @@
 # StepShare
 Find modded charts ported to SM5 in Discord
 
+## How to use (In Discord)
+
+### Find charts
+
+There are 4 commands to find charts: ``chart``, ``author``, ``pack`` and ``version``
+Example: ``sh!chart The`` will return all the charts that includes The on their name, if you want charts that only includes ``The``, you should include a ``--l`` flag, example: ``sh!chart The --l``.
+
+After that, the bot will show a list of the charts that he found with the search, and a number will be close to the chart name, you should type the number of the chart you want and he'll give you the
+chart results.
+
+![](https://cdn.discordapp.com/attachments/688182781263609868/693856983530471574/unknown.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
