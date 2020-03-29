@@ -1,0 +1,262 @@
+{
+    "Global_errorMissingArgument": {
+        "en": "Missing argument.",
+        "pt-br": "Você não deu nenhum argumento."
+    },
+    "Global_Yes": {
+        "en": "Yes",
+        "pt-br": "Sim"
+    },
+    "Global_Pages": {
+        "en": "Pages",
+        "pt-br": "Páginas"
+    },
+    "Global_No": {
+        "en": "No",
+        "pt-br": "Não"
+    },
+    "Global_You": {
+        "en": "You",
+        "pt-br": "Você"
+    },
+    "Global_I": {
+        "en": "I",
+        "pt-br": "Eu"
+    },
+    "Global_errorMissingPermission": {
+        "en": "{{who}} is the one who's missing {{permission}} permission to execute this command.",
+        "pt-br": "{{who}} é quem está faltando a permissão {{permission}} para executar esse comando."
+    },
+    "Message_errorMissingCommandName": {
+        "en": "You forgot to give the command name.",
+        "pt-br": "Você esqueceu de por o nome do comando."
+    },
+    "Message_errorCommandDoesntExist": {
+        "en": "That command doesn't exist.",
+        "pt-br": "Esse comando não existe."
+    },
+    "Help_NoArgument": {
+        "en": "No argument",
+        "pt-br": "Nenhum argumento"
+    },
+    "Help_OneArgument": {
+        "en": "One argument",
+        "pt-br": "Um argumento"
+    },
+    "Help_TwoArguments": {
+        "en": "Two arguments",
+        "pt-br": "Dois argumentos"
+    },
+    "Help_ThreeArguments": {
+        "en": "Three arguments",
+        "pt-br": "Três argumentos"
+    },
+    "Help_FourArguments": {
+        "en": "Four arguments",
+        "pt-br": "Quatro argumentos"
+    },
+    "Help_FiveArguments": {
+        "en": "Five arguments",
+        "pt-br": "Cinco argumentos"
+    },
+    "Help_SixArguments": {
+        "en": "Six arguments",
+        "pt-br": "Seis argumentos"
+    },
+    "Help_FirstArgument": {
+        "en": "First argument",
+        "pt-br": "Primeiro argumento"
+    },
+    "Help_SecondArgument": {
+        "en": "Second argument",
+        "pt-br": "Segundo argumento"
+    },
+    "Help_ThirdArgument": {
+        "en": "Third argument",
+        "pt-br": "Terceiro argumento"
+    },
+    "Help_FourthArgument": {
+        "en": "Fourth argument",
+        "pt-br": "Quarto argumento"
+    },
+    "Help_FifthArgument": {
+        "en": "Fifth argument",
+        "pt-br": "Quinto argumento"
+    },
+    "Help_SixthArgument": {
+        "en": "Sixth argument",
+        "pt-br": "Sexto argumento"
+    },
+    "Help_ArgumentsFormat": {
+        "en": "Arguments Format",
+        "pt-br": "Formato dos Argumentos"
+    },
+    "Help_Info": {
+        "en": "Info",
+        "pt-br": "Informações"
+    },
+    "Help_ArgumentsRequired": {
+        "en": "Arguments: {{howMany}}\nAre arguments required: {{required}}",
+        "pt-b": "Argumentos: {{howMany}}\nArguments são necessários: {{required}}"
+    },
+    "Help_errorNoHelpEmbed": {
+        "en": "It seems that command doesn't have a help embed defined to it.",
+        "pt-br": "Parece que esse comando não tem um embed de ajuda definido para ele."
+    },
+    "Help_ChartCategory": {
+        "en": "Chart Category",
+        "pt-br": "Categoria Chart"
+    },
+    "Help_MiscCategory": {
+        "en": "Misc Category",
+        "pt-br": "Categoria Misc"
+    },
+    "Help_commandName": {
+        "en": "Command name",
+        "pt-br": "Nome do comando"
+    },
+    "Help_chartName": {
+        "en": "Chart name",
+        "pt-br": "Nome do chart"
+    },
+    "Help_authorName": {
+        "en": "Author name",
+        "pt-br": "Nome do criador"
+    },
+    "Help_packName": {
+        "en": "Pack name",
+        "pt-br": "Nome do pack"
+    },
+    "Help_versionNumber": {
+        "en": "Version Number (5.0+, 5.1+ or 5.3)",
+        "pt-br": "Número da versão (5.0+, 5.1+ ou 5.3)"
+    },
+    "Literal_help": {
+        "en": "Help",
+        "pt-br": "Help"
+    },
+    "help_description": {
+        "en": "Shows a list of commands or information about a command.",
+        "pt-br": "Mostra a lista de commands ou informações de um comando."
+    },
+    "Chartdealer_errorNoFoundWithThatName": {
+        "en": "No {{searchType}} found with that name.",
+        "pt-br": "{{searchType}} não encontrado com esse nome."
+    },
+    "Chartdealer_version": {
+        "en": "Version",
+        "pt-br": "Versão"
+    },
+    "Chartdealer_pack": {
+        "en": "Pack",
+        "pt-br": "Pack"
+    },
+    "Chartdealer_author": {
+        "en": "Author",
+        "pt-br": "Criador"
+    },
+    "Chartdealer_chart": {
+        "en": "chart",
+        "pt-br": "chart"
+    },
+    "Chartdealer_typeTheChartNumber": {
+        "en": "Type the number of the chart you want. (You have 1 minute)",
+        "pt-br": "Digite o número do chart que você quer. (Você tem 1 minuto)"
+    },
+    "Chartdealer_errorNoHigherPage": {
+        "en": "There isn't a higher page.",
+        "pt-br": "Não tem mais uma página."
+    },
+    "Chartdealer_errorNoLowerPage": {
+        "en": "There isn't a lower page.",
+        "pt-br": "Não tem menos uma página."
+    },
+    "Chartdealer_errorNotValidNumber": {
+        "en": "Not a valid number or missed to cancel. (You'll need to execute the command again if you missed)",
+        "pt-br": "Número inválido ou você errou para cancelar. (Você vai ter que executar o comando novamente se errou)"
+    },
+    "Chartdealer_errorWaitResponse": {
+        "en": "An error happened while waiting your response or you did not reply.",
+        "pt-br": "Ocorreu um erro enquanto esperava sua resposta ou você não respondeu."
+    },
+    "Chartdealer_clickTitleToDownload": {
+        "en": "Click on the title to download.",
+        "pt-br": "Clique no título para baixar."
+    },
+    "Literal_author": {
+        "en": "Author",
+        "pt-br": "Author"
+    },
+    "author_description": {
+        "en": "Search for charts that includes the given author name.\nTo find charts that includes **only the given author name** add a flag with --l, example: ``sh!author authorName --l``",
+        "pt-br": "Procure por charts que contenha o nome do criador.\nPara achar charts que contenha **apenas o nome do criador** adicione uma opção adicional --l, exemplo: ``sh!author criador --l``"
+    },
+    "Literal_chart": {
+        "en": "Chart",
+        "pt-br": "Chart"
+    },
+    "chart_description": {
+        "en": "Search for charts with the given name.\nTo find charts that includes **only the given chart name** add a flag with --l, example: ``sh!author chartName --l``",
+        "pt-br": "Procure por charts pelo nome.\nPara achar charts que contenha **apenas o nome do chart** adicione uma opção adicional --l, exemplo: ``sh!author chart --l``"
+    },
+    "Literal_pack": {
+        "en": "Pack",
+        "pt-br": "Pack"
+    },
+    "pack_description": {
+        "en": "Search for charts with the pack name.\nTo find charts that includes **only the given pack name** add a flag with --l, example: ``sh!author packName --l``",
+        "pt-br": "Procure por charts pelo nome do pack.\nPara achar charts que contenha **apenas o nome do pack** adicione uma opção adicional --l, exemplo: ``sh!author pack --l``"
+    },
+    "Literal_version": {
+        "en": "Version",
+        "pt-br": "Version"
+    },
+    "version_description": {
+        "en": "Search for charts by the version that it supports.",
+        "pt-br": "Procura por charts pela versão que o chart suporta."
+    },
+    "Literal_avatar": {
+        "en": "Avatar",
+        "pt-br": "Avatar"
+    },
+    "avatar_description": {
+        "en": "Look your avatar.",
+        "pt-br": "Veja o seu avatar."
+    },
+    "Language_availableLanguages": {
+        "en": "Available languages",
+        "pt-br": "Linguagens Disponíveis"
+    },
+    "Language_typeLanguageToDefine": {
+        "en": "Type one of those language codes as argument to define it as the new language for this guild. Example: sh!language pt-br",
+        "pt-br": "Digite um desses códigos de linguagem para definir como a linguagem desse servidor. Examplo: sh!language en"
+    },
+    "Language_errorLanguageIsntAvailable": {
+        "en": "It seems that language isn't available or doesn't exist, if you wish to translate it, please contact with the bot owner.",
+        "pt-br": "Parece que essa linguagem não está disponível ou não existe, se você quer traduzir para ela, por favor converse com o dono do bot."
+    },
+    "Laguage_errorFallbackLanguageDefined": {
+        "en": "That language is already the bot fallback language, it doesn't need to be defined.",
+        "pt-br": "Essa linguagem já é a linguagem padrão do bot, ela não precisa ser definida."
+    },
+    "Language_errorLanguageAlreadyDefined": {
+        "en": "That language is already the language defined for this guild.",
+        "pt-br": "Essa linguagem já está definita para esse servidor."
+    },
+    "Language_errorWhileDefiningLanguage": {
+        "en": "Error occoured while defining the language, try again, if it doesn't work, report to the bot owner.",
+        "pt-br": "Erro ao definir a linguagem, tente novamente, se não funcionar, reporte para o dono do bot."
+    },
+    "Language_languageDefined": {
+        "en": "Language defined. :thumbsup:",
+        "pt-br": "Linguagem definida. :thumbsup:"
+    },
+    "Literal_language": {
+        "en": "Language",
+        "pt-br": "Language"
+    },
+    "language_description": {
+        "en": "Define the language of the guild or see the available languages.",
+        "pt-br": "Defina a linguagem do servidor ou veja as linguagens disponíveis."
+    }
+}

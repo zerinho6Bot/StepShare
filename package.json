@@ -1,0 +1,31 @@
+{
+  "name": "stepshare",
+  "version": "1.0.0",
+  "description": "Share/Download steps!",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "standard && node src/index.js"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "engines": {
+    "node": "12.x.x"
+  },
+  "author": "Jorge Luiz Souza Xavier",
+  "license": "MIT",
+  "dependencies": {
+    "caller-id": "^0.1.0",
+    "discord.js": "^12.0.2",
+    "dotenv": "^8.2.0",
+    "i18n-nodejs": "^3.0.0",
+    "simple-node-logger": "^18.12.24",
+    "standard": "^14.3.3"
+  },
+  "standard": {
+    "globals": [
+      "StepLog"
+    ]
+  }
+}
