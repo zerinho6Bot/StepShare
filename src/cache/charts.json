@@ -1,1956 +1,1956 @@
 {
   "charts": [
     {
-      "id": 1,
+      "id": "1",
       "name": "The Dive Game",
+      "supports": "5",
+      "download": "https://youtu.be/oMa-fqnCVzY",
       "author": "SteveReen",
-      "pack": "DOWNS 4",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/m5sedrekccnvkkf/DiveGame_%255BStepmania_5%255D.zip/file"
+      "pack": "DOWNS 4"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "FTW",
-      "author": "ky_Dash",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/893mf337vppo6z9/FTW_%255BStepmania_5%255D.zip/file"
+      "supports": "5",
+      "download": "https://youtu.be/DiPcyrFplGU",
+      "author": "Ky_Dash",
+      "pack": ""
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Electronized",
+      "supports": "5",
+      "download": "https://youtu.be/jdecc0MRqqc",
       "author": "Puurokulho",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/0049rkf0hf4kv39/Electronized_%255BStepmania_5%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Napolese",
+      "supports": "5",
+      "download": "https://youtu.be/dJuC9SFgMF4",
       "author": "Puurokulho",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/4xkdd1w844r57a4/Napolese_%255BStepmania_5%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Swim, Ikachan!",
+      "supports": "5",
+      "download": "https://youtu.be/L16jcHYn4T0",
       "author": "Puurokulho",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/0dowuu61rzvzzn7/Ikachan_%255BStepmania_5%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "City Never Sleeps",
+      "supports": "5",
+      "download": "https://youtu.be/-k_4TwW0DHQ",
       "author": "actuallyducky",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/75k3tpgzozn9i6f/City_Never_Sleeps_%255BStepmania_5%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Styx And Stones",
+      "supports": "5",
+      "download": "https://youtu.be/oA9QhzjIt0A",
       "author": "WinDEU",
-      "pack": "Galactic Gladiators",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/f74431w237apmnu/Styx_and_Stones_%255BStepmania_5%255D.zip/file"
+      "pack": "Galactic Gladiators"
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Acid Pumper",
-      "author": "MIKO/usernamehere556",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/1oq69bu5agupckk/Acid_Pumper_%255BStepmania_5%255D.zip/file"
+      "supports": "5",
+      "download": "https://youtu.be/gQ4NuSZjnIQ",
+      "author": "MIKO",
+      "pack": ""
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Milk",
+      "supports": "5",
+      "download": "https://youtu.be/JCWBEBvKwjU",
       "author": "Tetaes",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/kt3v8znkpbyb1bf/MilK_%255BStepmania_5%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Pollinosis",
-      "author": "MIKO/usernamehere556",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/z7e2ruzoc8l4dik/Pollinosis_%255BStepmania_5%255D.zip/file"
+      "supports": "5",
+      "download": "https://youtu.be/XHqUEez2KF8",
+      "author": "MIKO",
+      "pack": ""
     },
     {
-      "id": 11,
-      "name": "Magnetic",
+      "id": "11",
+      "name": "Magnetic ",
+      "supports": "5",
+      "download": "https://youtu.be/CKzObJwUgMk",
       "author": "WinDEU",
-      "pack": "DOWNS 4",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/64invk16x8kf8w6/Magnetic_%255BStepmania_5%255D.zip/file"
+      "pack": "DOWNS 4"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Glitch Maniaxxxx",
+      "supports": "5",
+      "download": "https://youtu.be/wZQHzuAbZUE",
       "author": "actuallyducky & ITGAlex",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/jhuvvsbb2r7dusi/Glitch_Maniaxxxx_%255BStepmania_5%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Karate Man",
+      "supports": "5",
+      "download": "https://youtu.be/5ONowREGSOE",
       "author": "TaroNuke",
-      "pack": "UKSRT1",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/24hecgk1677abwj/UKSRT1_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT1"
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Speed Highway",
+      "supports": "5",
+      "download": "https://youtu.be/vaFnjCLXp9c",
       "author": "TaroNuke",
-      "pack": "UKSRT1",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/24hecgk1677abwj/UKSRT1_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT1"
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "Saitama 2000",
+      "supports": "5",
+      "download": "https://youtu.be/l4GtKOt25nU",
       "author": "TaroNuke",
-      "pack": "UKSRT1",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/24hecgk1677abwj/UKSRT1_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT1"
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "Titanic Away!",
+      "supports": "5",
+      "download": "https://youtu.be/3RSJHRr1zd0",
       "author": "TaroNuke",
-      "pack": "UKSRT1",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/24hecgk1677abwj/UKSRT1_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT1"
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "DRAGONLADY",
+      "supports": "5",
+      "download": "https://youtu.be/7Drl7kweeQg",
       "author": "TaroNuke",
-      "pack": "UKSRT1",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/24hecgk1677abwj/UKSRT1_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT1"
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "UKSRT1 Credits",
+      "supports": "5",
+      "download": "https://youtu.be/HYUOQS_zC-g",
       "author": "TaroNuke",
-      "pack": "UKSRT1",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/24hecgk1677abwj/UKSRT1_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT1"
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "Complete Domination",
+      "supports": "5",
+      "download": "https://youtu.be/SAQrdUFtWRM",
       "author": "Puurokulho",
-      "pack": "Galactic Gladiators",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/l4urz903v69wzkv/Complete_Domination_%255BStepmania_5%255D.zip/file"
+      "pack": "Galactic Gladiators"
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "Hell Scaper (Last Escape Mix)",
-      "author": "Kyt-Xune",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/bjds88cb1z4pmtx/Hell_Scaper_%2528Last_Escape_Mix%2529_%255BStepmania_5%255D.zip/file"
+      "supports": "5",
+      "download": "https://youtu.be/0J_vFF4iHwA",
+      "author": "",
+      "pack": "Kyt-Xune's SRTX"
     },
     {
-      "id": 21,
+      "id": "21",
       "name": "P8107 Full Version",
-      "author": "Kyt-Xune",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/2q0xdfchrezk8d0/P8107_Full_Version_%255BStepmania_5%255D.zip/file"
+      "supports": "5",
+      "download": "https://youtu.be/FaNGi6eXWRc",
+      "author": "",
+      "pack": "Kyt-Xune's SRT9"
     },
     {
-      "id": 22,
+      "id": "22",
       "name": "Overcomplexification",
+      "supports": "5",
+      "download": "https://youtu.be/C-v1Je02BYA",
       "author": "Jose_varela",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/1833lx32lx1cpp8/overcomplexification_%255BStepmania_5%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 23,
+      "id": "23",
       "name": "Creative Exercise",
+      "supports": "5",
+      "download": "https://youtu.be/2w5ik41CsbA",
       "author": "Jose_varela",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/ct34mtoh1zon634/Creative_Exercise_%255BStepmania_5%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "Wild Rush",
+      "supports": "5",
+      "download": "https://youtu.be/nFpMuMfRgSk",
       "author": "WinDEU",
-      "pack": "WHY 5EVR",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/l56tnnug4k1w5rx/Wild_Rush_%255BStepmania_5%255D.zip/file"
+      "pack": "WinDEU Hates You 5EVR"
     },
     {
-      "id": 25,
+      "id": "25",
       "name": "Psy-Kaliber 2097",
-      "author": "Kyt-Xune",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/00f2bhl9u4jcpn5/Psy-Kaliber_2097_%255BStepmania_5%255D.zip/file"
+      "supports": "5",
+      "download": "https://youtu.be/DR7sYjiU0cQ",
+      "author": "",
+      "pack": "Kyt-Xune's SRT10"
     },
     {
-      "id": 26,
+      "id": "26",
       "name": "Sword Dance",
+      "supports": "5",
+      "download": "https://youtu.be/lmfepa980jA",
       "author": "WinDEU",
-      "pack": "WHY 5EVR",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/9n0kn83lnfwrdzb/Sword_Dance_%255BStepmania_5%255D.zip/file"
+      "pack": "WinDEU Hates You 5EVR"
     },
     {
-      "id": 27,
+      "id": "27",
       "name": "xb",
+      "supports": "5",
+      "download": "https://youtu.be/tiJ84rdDRzg",
       "author": "WinDEU",
-      "pack": "WHY 5EVR",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/mc20ww59w1wzyz6/xb_%255BStepmania_5%255D.zip/file"
+      "pack": "WinDEU Hates You 5EVR"
     },
     {
-      "id": 28,
+      "id": "28",
       "name": "MAWARU! SETSUGETSUKA!",
+      "supports": "5",
+      "download": "https://youtu.be/O5EyWiB7zK4",
       "author": "TaroNuke",
-      "pack": "Mawaru Collection",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/7tay9zmr1vlldyf/Mawaru_Collection_%255BStepmania_5%255D.zip/file"
+      "pack": "Mawaru Collection"
     },
     {
-      "id": 29,
+      "id": "29",
       "name": "Mawaru 1 & 2",
+      "supports": "5",
+      "download": "https://youtu.be/rRzZwChWnwk",
       "author": "TaroNuke",
-      "pack": "Mawaru Collection",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/7tay9zmr1vlldyf/Mawaru_Collection_%255BStepmania_5%255D.zip/file"
+      "pack": "Mawaru Collection"
     },
     {
-      "id": 30,
+      "id": "30",
       "name": "Inf-Blaster",
+      "supports": "5",
+      "download": "https://youtu.be/n-0uy5tvXUQ",
       "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/dxjjg5zvwyl01li/Inf_Blaster_%255BStepmania_5%255D.zip/file"
+      "pack": "Mods Boot Camp"
     },
     {
-      "id": 31,
+      "id": "31",
       "name": "A Moon Of Caral",
+      "supports": "5",
+      "download": "https://youtu.be/CXvpjjI2Et8",
       "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/ts11awersk0seyx/A_Moon_of_Caral_%255BStepmania_5%255D.zip/file"
+      "pack": "Mods Boot Camp"
     },
     {
-      "id": 32,
+      "id": "32",
       "name": "Ayakashi",
+      "supports": "5",
+      "download": "https://youtu.be/vmIt0z32IoQ",
       "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/rtqgzh1el0ujbv7/Ayakashi_%255BStepmania_5%255D.zip/file"
+      "pack": "Mods Boot Camp"
     },
     {
-      "id": 33,
+      "id": "33",
       "name": "Fly To Next World",
+      "supports": "5",
+      "download": "https://youtu.be/G5cFOi6fyCU",
       "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/zvw6ednf482dzp2/Fly_to_Next_World_%2528syzfonics_Remix%2529_%255BStepmania_5%255D.zip/file"
+      "pack": "Mods Boot Camp"
     },
     {
-      "id": 34,
+      "id": "34",
       "name": "Now Is A Dull Party",
+      "supports": "5",
+      "download": "https://youtu.be/d0j3tJy0Uz0",
       "author": "WinDEU",
-      "pack": "WHY 401k",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/eovnh6u143izos1/Now_is_a_Dull_Party_%255BStepmania_5%255D.zip/file"
+      "pack": "WinDEU Hates You 401k"
     },
     {
-      "id": 35,
+      "id": "35",
       "name": "Mawaru 3",
+      "supports": "5",
+      "download": "https://youtu.be/bF55DnNqW6E",
       "author": "TaroNuke",
-      "pack": "Mawaru Collection",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/7tay9zmr1vlldyf/Mawaru_Collection_%255BStepmania_5%255D.zip/file"
+      "pack": "Mawaru Collection"
     },
     {
-      "id": 36,
+      "id": "36",
       "name": "Common World Domination",
+      "supports": "5",
+      "download": "https://youtu.be/URKaX5P32y0",
       "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/vcskayk875smnzq/Common_World_Domination_%255BStepmania_5%255D.zip/file"
+      "pack": "Mods Boot Camp"
     },
     {
-      "id": 37,
+      "id": "37",
       "name": "MAWARU FINALE",
+      "supports": "5",
+      "download": "https://youtu.be/AIfVVxwCLRc",
       "author": "TaroNuke",
-      "pack": "Mawaru Collection",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/7tay9zmr1vlldyf/Mawaru_Collection_%255BStepmania_5%255D.zip/file"
+      "pack": "Mawaru Collection"
     },
     {
-      "id": 38,
+      "id": "38",
       "name": "MAWARUCHI SURVIVER",
+      "supports": "5",
+      "download": "https://youtu.be/e3wX-hzuuAs",
       "author": "TaroNuke",
-      "pack": "Mawaru Collection",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/7tay9zmr1vlldyf/Mawaru_Collection_%255BStepmania_5%255D.zip/file"
+      "pack": "Mawaru Collection"
     },
     {
-      "id": 39,
+      "id": "39",
       "name": "Mawaru 4: EASY MODO?!",
+      "supports": "5",
+      "download": "https://youtu.be/yMVbAX9jbF4",
       "author": "TaroNuke",
-      "pack": "Mawaru Collection",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/7tay9zmr1vlldyf/Mawaru_Collection_%255BStepmania_5%255D.zip/file"
+      "pack": "Mawaru Collection"
     },
     {
-      "id": 40,
+      "id": "40",
       "name": "MAWARU RIDES AGAIN",
+      "supports": "5",
+      "download": "https://youtu.be/i69V0z7rbrA",
       "author": "TaroNuke",
-      "pack": "Mawaru Collection",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/7tay9zmr1vlldyf/Mawaru_Collection_%255BStepmania_5%255D.zip/file"
+      "pack": "Mawaru Collection"
     },
     {
-      "id": 41,
+      "id": "41",
       "name": "Bad Apple!!",
+      "supports": "5",
+      "download": "https://youtu.be/GCTXronvFFU",
       "author": "teejusb",
-      "pack": "DOWNS 4",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/i74kwnp8i7vqcda/Bad_Apple%2521%2521_%255BStepmania_5%255D.zip/file"
+      "pack": "DOWNS 4"
     },
     {
-      "id": 42,
+      "id": "42",
       "name": "Box",
+      "supports": "5",
+      "download": "https://youtu.be/qkbSPUgnsQo",
       "author": "MrBoxinaboxinabox",
-      "pack": "DOWNS 4",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/a5r0dht6q3yla79/Box_%255BStepmania_5%255D.zip/file"
+      "pack": "DOWNS 4"
     },
     {
-      "id": 43,
+      "id": "43",
       "name": "Overload",
-      "author": "Warpdr!ve/Warpd9",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/v1ilz9bz1u01bvv/Overload_%255BStepmania_5%255D.zip/file"
+      "supports": "5",
+      "download": "https://youtu.be/-mFG_DxcqH0",
+      "author": "Warpdr!ve",
+      "pack": ""
     },
     {
-      "id": 44,
+      "id": "44",
       "name": "Abandoned Shrine Party",
-      "author": "MIKO/usernamehere556",
-      "pack": "",
       "supports": "5.1+",
-      "download": "https://www.mediafire.com/file/claxbpbvc5cbwmv/Abandoned_Shrine_Party_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 45,
-      "name": "Routing",
+      "download": "https://youtu.be/FxBI3shOUZE",
       "author": "MIKO",
-      "pack": "U of I SRT Day - SRTardis",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/3bkvjjyiwb3lz7t/Routing_%255BStepmania_5%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 46,
+      "id": "45",
+      "name": "Routing",
+      "supports": "5",
+      "download": "https://youtu.be/6WVlLfKZ41U",
+      "author": "MIKO",
+      "pack": "U of I SRT Day - SRTardis"
+    },
+    {
+      "id": "46",
       "name": "Seismo",
-      "author": "WinDEU",
-      "pack": "WHY 401k",
       "supports": "5.1+",
-      "download": "https://www.mediafire.com/file/dvcvd46grd4tsvy/Seismo_%255BStepmania_5.1%252B%255D.zip/file"
+      "download": "https://youtu.be/2JY41ixvsL0",
+      "author": "WinDEU",
+      "pack": "WinDEU Hates You 401k"
     },
     {
-      "id": 47,
+      "id": "47",
       "name": "Golden Slaughterer",
+      "supports": "5",
+      "download": "https://youtu.be/A-wFghbFcps",
       "author": "WinDEU",
-      "pack": "WHY 5EVR",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/g2laz9v9realdn7/Golden_Slaughterer_%255BStepmania_5%255D.zip/file"
+      "pack": "WinDEU Hates You 5EVR"
     },
     {
-      "id": 48,
+      "id": "48",
       "name": "Bad Maniacs",
+      "supports": "5",
+      "download": "https://youtu.be/twIuG9J01rk",
       "author": "WinDEU",
-      "pack": "WHY 5EVR",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/fxkcac941xfcxf2/Bad_Maniacs_%255BStepmania_5%255D.zip/file"
+      "pack": "WinDEU Hates You 5EVR"
     },
     {
-      "id": 49,
+      "id": "49",
       "name": "HAVOX",
-      "author": "Taronuke, Puurokulho, Patorikku91, SteveReen & WinDEU",
-      "pack": "Galactic Gladiators",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/gahq3kotn43pc64/Havox_%255BStepmania_5%255D.zip/file"
+      "supports": "5",
+      "download": "https://youtu.be/YDAeKGl3Dl4",
+      "author": "collab",
+      "pack": "Galactic Gladiators"
     },
     {
-      "id": 50,
+      "id": "50",
       "name": "Readymade Luv",
+      "supports": "5",
+      "download": "https://youtu.be/-byrOnN-iLU",
       "author": "actuallyducky",
-      "pack": "Galactic Gladiators",
-      "supports": "5.0+",
-      "download": "https://www.youtube.com/redirect?v=-byrOnN-iLU&event=video_description&redir_token=125pfV7YOdMZcKWVvTpNcDe_FD58MTU4NDk3MjI4NEAxNTg0ODg1ODg0&q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Ft0mvdxbszgyo0cw%2FReadymade%2520Luv%2520%255BStepmania%25205%255D.zip%3Fdl%3D1"
+      "pack": "Galactic Gladiators"
     },
     {
-      "id": 51,
+      "id": "51",
       "name": "Pa Pi Pu Yeah!",
-      "author": "MIKO",
-      "pack": "",
       "supports": "5.1+",
-      "download": "https://www.mediafire.com/file/0ovyd2wigrnafoa/papipu_%255BStepmania_5.1%252B%255D.zip/file"
+      "download": "https://youtu.be/hAbpct4zMkc",
+      "author": "MIKO",
+      "pack": ""
     },
     {
-      "id": 52,
+      "id": "52",
       "name": "Now Is A Dull Party",
+      "supports": "5",
+      "download": "https://youtu.be/HMtwnBjhQAE",
       "author": "TaroNuke",
-      "pack": "TaroNuke's Bullshit",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/xikoaa12a0f5afk/Now_Is_A_Dull_Party_%2528TaroNuke%2529_%255BStepmania_5%255D.zip/file"
+      "pack": "TaroNuke's Bullshit"
     },
     {
-      "id": 53,
+      "id": "53",
       "name": "Surface",
+      "supports": "5",
+      "download": "https://youtu.be/AWrVDvSdKMo",
       "author": "Fraxtil",
-      "pack": "DivinElegy's",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/g3du72buacqm7lt/Surface_%255BStepmania_5%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 54,
+      "id": "54",
       "name": "The End",
-      "author": "Kyt-Xune",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/rb018vz5patbk6i/The_End_%255BStepmania_5%255D.zip/file"
+      "supports": "5",
+      "download": "https://youtu.be/c3mVsEA349A",
+      "author": "",
+      "pack": "Kyt-Xune's SRTX"
     },
     {
-      "id": 55,
+      "id": "55",
       "name": "F**k Away Now",
+      "supports": "5",
+      "download": "https://youtu.be/jnsRlVqqors",
       "author": "WinDEU",
-      "pack": "WHY 401k",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/ixacnwodei34ccs/F%252Ack_Away_Now_%255BStepmania_5%255D.zip/file"
+      "pack": "WinDEU Hates You 401k"
     },
     {
-      "id": 56,
+      "id": "56",
       "name": "Hard de Koneko",
+      "supports": "5",
+      "download": "https://youtu.be/kYXVGNct9OY",
       "author": "TaroNuke",
-      "pack": "UKSRT3",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/itlqww1cw1ec1nc/HardKoneko_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT3"
     },
     {
-      "id": 57,
+      "id": "57",
       "name": "New Fluttershy",
+      "supports": "5",
+      "download": "https://youtu.be/dLnU2Jwmz08",
       "author": "WinDEU",
-      "pack": "WHY 5EVR",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/geoo8hgekaikkdo/New_Fluttershy_%255BStepmania_5%255D.zip/file"
+      "pack": "WinDEU Hates You 5EVR"
     },
     {
-      "id": 58,
+      "id": "58",
       "name": "Profession",
+      "supports": "5",
+      "download": "https://youtu.be/1n8N_RJABWA",
       "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/o4pvt5c3qrzyc7t/Profession_%255BStepmania_5%255D.zip/file"
+      "pack": "Mods Boot Camp"
     },
     {
-      "id": 59,
+      "id": "59",
       "name": "Dot",
+      "supports": "5",
+      "download": "https://youtu.be/cCSs-da2GN8",
       "author": "MIKO",
-      "pack": "Under The Big Top SRT",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/if1v0uf5afibwhj/Dot_%255BStepmania_5%255D.zip/file"
+      "pack": "Under The Big Top SRT"
     },
     {
-      "id": 60,
+      "id": "60",
       "name": "Option",
+      "supports": "5",
+      "download": "https://youtu.be/WnLney8rK14",
       "author": "WinDEU",
-      "pack": "WinDEU Hates You: JK It Never Ends",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/3cuqd797ssucdwm/Option_%255BStepmania_5%255D.zip/file"
+      "pack": "WinDEU Hates You: JK It Never Ends"
     },
     {
-      "id": 61,
+      "id": "61",
       "name": "Flappy Box",
+      "supports": "5",
+      "download": "https://youtu.be/C6K7FjDsvKM",
       "author": "MrBoxinaboxinabox",
-      "pack": "DOWNS 5",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/m0s10ghdsqilfhn/Flappy_Box_%255BStepmania_5%255D.zip/file"
+      "pack": "DOWNS 5"
     },
     {
-      "id": 62,
+      "id": "62",
       "name": "PonPonPon",
-      "author": "Puurokulho",
-      "pack": "",
       "supports": "5.1+",
-      "download": "https://www.mediafire.com/file/62znmummmknch0w/PonPonPon_%255BStepmania_5.1%252B%255D.zip/file"
+      "download": "https://youtu.be/iiG3BfzLaRo",
+      "author": "Puurokulho",
+      "pack": ""
     },
     {
-      "id": 63,
+      "id": "63",
       "name": "Kamikaze Challenge of Time",
-      "author": "MIKO",
-      "pack": "U of I SRT Day - SRTardis",
       "supports": "5.1+",
-      "download": "https://www.mediafire.com/file/zsndbs2m6m5mqvg/Kamikaze_Challenge_of_Time_%255BStepmania_5.1%252B%255D.zip/file"
+      "download": "https://youtu.be/TYfHcxMm_7Y",
+      "author": "MIKO",
+      "pack": "U of I SRT Day - SRTardis"
     },
     {
-      "id": 64,
+      "id": "64",
       "name": "Sick",
+      "supports": "5",
+      "download": "https://youtu.be/oJq5gZPmcUk",
       "author": "WinDEU",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/8888xdjjbvg2mbq/Sick_%255BStepmania_5%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 65,
+      "id": "65",
       "name": "First Person Shooter",
+      "supports": "5",
+      "download": "https://youtu.be/-nFDHteT-ZQ",
       "author": "Torukine",
-      "pack": "DivinElegy's 3rd Gimmick Competition",
-      "supports": "5.0+",
-      "download": "https://www.dropbox.com/s/itj3debf6obg8wg/First%20Person%20Shooter%20%5BStepmania%205%5D.zip"
+      "pack": "DivinElegy's 3rd Gimmick Competition"
     },
     {
-      "id": 66,
+      "id": "66",
       "name": "Gott",
+      "supports": "5",
+      "download": "https://youtu.be/zzrr7sLx_Sk",
       "author": "teejusb",
-      "pack": "DOWNS 5",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/v68ruletyw4quv6/Gott_%255BStepmania_5%255D.zip/file"
+      "pack": "DOWNS 5"
     },
     {
-      "id": 67,
+      "id": "67",
       "name": "A Terrific Way to Die",
+      "supports": "5",
+      "download": "https://youtu.be/uW6CzRR2oGA",
       "author": "Warpdr!ve",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/u2w3fzyja7qtl91/A_Terrific_Way_to_Die_%255BStepmania_5%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 68,
+      "id": "68",
       "name": "Power Glove",
+      "supports": "5",
+      "download": "https://youtu.be/jHVhYzV-koA",
       "author": "ladychain",
-      "pack": "DOWNS 4",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/k85z884qmyrkx9e/Power_Glove_%255BStepmania_5%255D.zip/file"
+      "pack": "DOWNS 4"
     },
     {
-      "id": 69,
+      "id": "69",
       "name": "Absurd Gaff",
+      "supports": "5",
+      "download": "https://youtu.be/31r0qE_K_XY",
       "author": "WinDEU",
-      "pack": "WinDEU Hates You IROOT",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/x7p3ds8k7i8eldo/Absurd_Gaff_%255BStepmania_5%255D.zip/file"
+      "pack": "WinDEU Hates You IROOT"
     },
     {
-      "id": 70,
+      "id": "70",
       "name": "Chronon",
+      "supports": "5",
+      "download": "https://youtu.be/umTm1fKGzlc",
       "author": "WinDEU",
-      "pack": "WinDEU Hates You IROOT",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/jualwf6ia15etad/Chronon_%255BStepmania_5%255D.zip/file"
+      "pack": "WinDEU Hates You IROOT"
     },
     {
-      "id": 71,
+      "id": "71",
       "name": "Eureka",
+      "supports": "5",
+      "download": "https://youtu.be/RJ_PTItsUWo",
       "author": "WinDEU",
-      "pack": "WinDEU Hates You IROOT",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/iftvmkv073pj42y/Eureka_%255BStepmania_5%255D.zip/file"
+      "pack": "WinDEU Hates You IROOT"
     },
     {
-      "id": 72,
+      "id": "72",
       "name": "Pink Magic",
+      "supports": "5",
+      "download": "https://youtu.be/pe1zafsSqQw",
       "author": "WinDEU",
-      "pack": "WinDEU Hates You IROOT",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/8w5sb10c8zsz130/Pink_Magic_%255BStepmania_5%255D.zip/file"
+      "pack": "WinDEU Hates You IROOT"
     },
     {
-      "id": 73,
+      "id": "73",
       "name": "Anger Of YuYu",
-      "author": "Kyt-Xune",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/5i8ed7g286ki81i/Anger_of_YuYu_%255BStepmania_5%255D.zip/file"
+      "supports": "5",
+      "download": "https://youtu.be/iddVHIYPCBk",
+      "author": "",
+      "pack": "Kyt-Xune's SRTX"
     },
     {
-      "id": 74,
+      "id": "74",
       "name": "Unified Chaos",
+      "supports": "5",
+      "download": "https://youtu.be/NMRfbfw_5KU",
       "author": "TaroNuke",
-      "pack": "UKSRT2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/dnhb9cd7jw1817k/UnifiedChaos_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT2"
     },
     {
-      "id": 75,
+      "id": "75",
       "name": "Blacksphere",
+      "supports": "5",
+      "download": "https://youtu.be/4yQ7R_ZaB1U",
       "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/6p4121gjqunv9d9/Blacksphere_%255BStepmania_5%255D.zip/file"
+      "pack": "Mods Boot Camp"
     },
     {
-      "id": 76,
+      "id": "76",
       "name": "ECHO",
+      "supports": "5",
+      "download": "https://youtu.be/WscY6IClHhk",
       "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "https://www.dropbox.com/s/kn0fjj645xlifj7/Echo%20%5BStepmania%205%5D.zip?dl=0"
+      "pack": "Mods Boot Camp"
     },
     {
-      "id": 77,
+      "id": "77",
       "name": "cloud",
+      "supports": "5",
+      "download": "https://youtu.be/aeyTaPincbE",
       "author": "WinDEU",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/1axa1f0cu4xfq6d/cloud_%255BStepmania_5%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 78,
+      "id": "78",
       "name": "Flugel",
+      "supports": "5",
+      "download": "https://youtu.be/9IPLuwVoqZs",
       "author": "TaroNuke",
-      "pack": "UKSRT2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/r6lrhh26ddweqju/Flugel_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT2"
     },
     {
-      "id": 79,
+      "id": "79",
       "name": "Warriors Aboot",
+      "supports": "5",
+      "download": "https://youtu.be/jQ6XFScAXBI",
       "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/2o52usptbmli7ml/Warriors_Aboot_%255BStepmania_5%255D.zip/file"
+      "pack": "Mods Boot Camp"
     },
     {
-      "id": 80,
+      "id": "80",
       "name": "Backflow",
+      "supports": "5",
+      "download": "https://youtu.be/m2rQcQ6sxy4",
       "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/1gxe55vgf0m3eni/Backflow_%255BStepmania_5%255D.zip/file"
+      "pack": "Mods Boot Camp"
     },
     {
-      "id": 81,
+      "id": "81",
       "name": "Mata Saitama 2000",
+      "supports": "5",
+      "download": "https://youtu.be/Enxn2HxICsw",
       "author": "TaroNuke",
-      "pack": "UKSRT3",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/5e3co57fu340dyw/MataSaitama_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT3"
     },
     {
-      "id": 82,
+      "id": "82",
       "name": "smooooch・∀・ KN mix",
+      "supports": "5",
+      "download": "https://youtu.be/1tQaY-GqVx8",
       "author": "TaroNuke",
-      "pack": "UKSRT4",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/u9bp4984y3dtmfk/SmoooochKN_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT4"
     },
     {
-      "id": 83,
+      "id": "83",
       "name": "Mawaru 6.5: W.T.F.",
+      "supports": "5",
+      "download": "https://youtu.be/ZxKoUR8hNys",
       "author": "TaroNuke",
-      "pack": "UKSRT4",
-      "supports": "5.0+",
-      "download": "mediafire.com/file/8br86uc7j0209hd/Mawaru6.5_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT4"
     },
     {
-      "id": 84,
-      "name": "UKSRT4 Credits",
+      "id": "84",
+      "name": "Credits",
+      "supports": "5",
+      "download": "https://youtu.be/XjNs9sw7QrI",
       "author": "TaroNuke",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/9y628nvpnv265on/Credits_%2528UKSRT4%2529_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT4"
     },
     {
-      "id": 85,
+      "id": "85",
       "name": "Blastix Riotz",
+      "supports": "5",
+      "download": "https://youtu.be/wZvSdILepHQ",
       "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/ni9fiqms9bss4k4/Blastix_Riotz_%255BStepmania_5%255D.zip/file"
+      "pack": "Mods Boot Camp"
     },
     {
-      "id": 86,
+      "id": "86",
       "name": "Redraw Lots",
+      "supports": "5",
+      "download": "https://youtu.be/QXJb_QrXqnc",
       "author": "TaroNuke",
-      "pack": "UKSRT5",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/vvpzecq4h52ljkl/RedrawLots_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT5"
     },
     {
-      "id": 87,
+      "id": "87",
       "name": "Sneaky Spirits",
+      "supports": "5",
+      "download": "https://youtu.be/FQBhcW15KtM",
       "author": "TaroNuke",
-      "pack": "UKSRT2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/0w88ppvixw8s2dh/SneakySpirits_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT2"
     },
     {
-      "id": 88,
+      "id": "88",
       "name": "Infinite Space",
+      "supports": "5",
+      "download": "https://youtu.be/XFyBeuQc8lQ",
       "author": "TaroNuke",
-      "pack": "UKSRT7",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/6yyrsum3ssoezp7/InfinteSpace_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT7"
     },
     {
-      "id": 89,
+      "id": "89",
       "name": "Adrift",
+      "supports": "5",
+      "download": "https://youtu.be/o0LRMp4pp9Y",
       "author": "Puurokulho",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/vm9ky6abwtobu1m/Adrift_%255BStepmania_5%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 90,
+      "id": "90",
       "name": "Battle Against a True Hero",
+      "supports": "5",
+      "download": "https://youtu.be/bj6Ds4ukrLI",
       "author": "Puurokulho",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/0w29mwhib4tigpp/Battle_Against_a_True_Hero_%255BStepmania_5%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 91,
+      "id": "91",
       "name": "Insane Techniques",
-      "author": "Puurokulho",
-      "pack": "",
       "supports": "5.1+",
-      "download": "https://www.mediafire.com/file/8t6233v1c34vo93/Insane_%255BStepmania_5.1%252B%255D.zip/file"
+      "download": "https://youtu.be/oB73fvEyxy4",
+      "author": "Puurokulho",
+      "pack": ""
     },
     {
-      "id": 92,
+      "id": "92",
       "name": "Swing Break",
+      "supports": "5",
+      "download": "https://youtu.be/QZjg3XVdEeg",
       "author": "Puurokulho",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/cv5oord96zx4oai/Swing_Break_%255BStepmania_5%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 93,
+      "id": "93",
       "name": "Frozen Frogs",
-      "author": "Puurokulho",
-      "pack": "",
       "supports": "5.1+",
-      "download": "https://www.mediafire.com/file/4zlcekxuoklytd4/Frozen_Frogs_%255BStepmania_5.1%252B%255D.zip/file"
+      "download": "https://youtu.be/6ICmUdDVhT4",
+      "author": "Puurokulho",
+      "pack": ""
     },
     {
-      "id": 94,
+      "id": "94",
       "name": "Distant Stars",
+      "supports": "5",
+      "download": "https://youtu.be/_7zwW-8yumk",
       "author": "Puurokulho",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/555h4mi6o627uad/Distant_Stars_%255BStepmania_5%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 95,
+      "id": "95",
       "name": "MAWARU SIMULATOR 2016",
+      "supports": "5",
+      "download": "https://youtu.be/iuT9hBqR-3s",
       "author": "TaroNuke",
-      "pack": "UKSRT8",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/oq5l4czq2g67cwc/mawaru9_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT8"
     },
     {
-      "id": 96,
+      "id": "96",
       "name": "Overload 2.1",
-      "author": "Warpdr!ve/Warpd9",
-      "pack": "DOWNS 5",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/y7q6s3ainge8e39/Overload_2.1_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 97,
-      "name": "The Sampling Paradise",
-      "author": "WinDEU",
-      "pack": "DOWNS 3",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/xycd4eggm5s8d3l/The_Sampling_Paradise_%2528DOWNS_3%2529_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 98,
-      "name": "Perfect Cherry Storm",
-      "author": "WinDEU",
-      "pack": "WinDEU Loves You",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/4pbsdc0eokorqoq/Perfect_Cherry_Storm_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 99,
-      "name": "Long Invulnerability",
-      "author": "SteveReen",
-      "pack": "DivinElegy's 3rd Gimmick Competition",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/y46zi5p6qs4dvcx/LongInvulnerability_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 100,
-      "name": "Firestorm",
-      "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/hm3te9ywm296vlq/Firestorm_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 101,
-      "name": "G-LOOP",
-      "author": "TaroNuke",
-      "pack": "UKSRT4",
-      "supports": "5.1+",
-      "download": "https://www.mediafire.com/file/a0jkau3r4kr24z5/G-LOOP_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 102,
-      "name": "Toshisan's Nightmare",
-      "author": "NAYOTO",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/cct82hg135xl5q6/Toshisan%2527s_Nightmare_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 103,
-      "name": "lootus",
-      "author": "TaroNuke",
-      "pack": "Galactic Gladiators",
-      "supports": "5.1+",
-      "download": "https://www.mediafire.com/file/riwy5p9djwja9ox/lootus_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 104,
-      "name": "The Rotter Tarmination",
-      "author": "TaroNuke",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/0gq5z1qb5rvy65e/The_Rotter_Tarmination_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 105,
-      "name": "Rob Swire Has A Nervous Breakdown",
-      "author": "WinDEU",
-      "pack": "DOWNS 5",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/2gdsei94rh98c04/Rob_Swire_Has_a_Nervous_Breakdown_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 106,
-      "name": "The Medley of Kirby SSDX",
-      "author": "Jayce/peekingboo",
-      "pack": "Gay4Gimmix 3",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/t8lcwgx6w4b9g3g/The_Medley_of_Kirby_SSDX_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 107,
-      "name": "Past The Bolted Door",
-      "author": "WinDEU",
-      "pack": "WinDEU Hates You: IROOT",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/qbices11y9cxv2y/Past_the_bolted_door_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 108,
-      "name": "Groundhog",
-      "author": "Gezoda/Gangetsha",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.dropbox.com/s/my6mc71dug40ewv/Groundhog%20%5BStepmania%205%5D.zip?dl=0"
-    },
-    {
-      "id": 109,
-      "name": "Sick Wubs",
-      "author": "WinDEU",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/dcmzzer59y5pm4k/Sick_Wubs_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 110,
-      "name": "VerTex^3",
-      "author": "ITG 3",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/rng3472dgymc69x/VerTex%255E3_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 111,
-      "name": "Y2Z",
-      "author": "ITG 3",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/ajrzobwb0dasqyy/Y2Z_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 112,
-      "name": "kioku [unconnected]",
-      "author": "TaroNuke",
-      "pack": "UKSRT8",
-      "supports": "5.1+",
-      "download": "https://www.mediafire.com/file/0l0b8ll99t8y1zi/kioku_%255Bunconnnected%255D_%255BStepmania_5.1_%255D.zip/file"
-    },
-    {
-      "id": 113,
-      "name": "Absurd Gaff",
-      "author": "MIKO",
-      "pack": "DOWNS 4",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/jda6oqzhgk5kccu/Absurd_Gaff_%2528MIKO%2529_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 114,
-      "name": "Sort Game",
-      "author": "TaroNuke",
-      "pack": "UKSRT8",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/z7o69vmkc1tvsxu/Sort_Game_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 115,
-      "name": "Let Me Drive",
-      "author": "Telperion",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/mqzfkkp2qukrxwa/%255BTelperion%255D_Let_Me_Drive_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 116,
-      "name": "Cytokinesis",
-      "author": "WinDEU",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/8uyvnqquekiv62m/Cytokinesis_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 117,
-      "name": "Twin Rocket",
-      "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/utvsbf2lxd15c54/Twin_Rocket_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 118,
-      "name": "Rubeus",
-      "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/8b1fe6b6740c9m5/Rubeus_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 119,
-      "name": "Discloze",
-      "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/dwgr4dw99zdrkrd/Discloze_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 120,
-      "name": "Pieces of a Dream",
-      "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/0xyjorejvphk84e/Pieces_of_a_Dream_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 121,
-      "name": "ArrowQuest",
-      "author": "TaroNuke",
-      "pack": "DivinElegy's 2nd Gimmick Competition",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/3ws85ewwb769yp2/ArrowQuest_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 122,
-      "name": "Haunted House",
-      "author": "WinDEU",
-      "pack": "WHY 401k",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/b1cccpd5sska9cw/Haunted_House_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 123,
-      "name": "OctoToxin",
-      "author": "TaroNuke",
-      "pack": "UKSRT4",
-      "supports": "5.1+",
-      "download": "https://www.mediafire.com/file/6s3ooa3c6vc7hwj/OctoToxin_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 124,
-      "name": "Continew",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/311vf1ur3qz3qf7/continew_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 125,
-      "name": "Rings Of Rainbow",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/qd123bzu95n7sg7/Rings_of_Rainbow_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 126,
-      "name": "Crimson Sword Dance",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/8y87fara506oxh8/Crimson_Sword_Dance_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 127,
-      "name": "INFINITY OVERDRIVE",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/vkcct226o852yj2/INFINITY_OVERDRIVE_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 128,
-      "name": "Issen",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/cezi4xkyghaf2dj/Issen_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 129,
-      "name": "Machine Gun",
-      "author": "TaroNuke & Puurokulho",
-      "pack": "UKSRT7.3",
-      "supports": "5.1+",
-      "download": "https://www.mediafire.com/file/akkb1488c1yr8ob/machinegun_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 130,
-      "name": "Double Universe",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/kltawcpejh76682/Double_Universe_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 131,
-      "name": "CENSORED!!",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/a67xp8te5dcjn4t/CENSORED%2521%2521_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 132,
-      "name": "Mirai Prism",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/vdq5u6skbr382vq/Mirai_Prism_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 133,
-      "name": "Virtual Sunrise (xac remix)",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/3zxoeax2f2a01r1/Virtual_Sunrise_%2528xac_remix%2529_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 134,
-      "name": "KAC 2012 Ultimate Medley Extend",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/xb5j46w4715w8vs/KAC_2012_Ultimate_Medley_Extend_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 135,
-      "name": "Preserved Valkyria",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/szj19h9x9praeb3/Preserved_Valkyria_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 136,
-      "name": "Crack Traxxxx",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.dropbox.com/s/92t0pshcn0e3xs7/Crack%20Traxxxx%20%5BStepmania%205%5D.zip?dl=0"
-    },
-    {
-      "id": 137,
-      "name": "DNA_784MB",
-      "author": "Rikame",
-      "pack": "DivinElegy's 1st Gimmick Competition",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/9e44he2cv944la6/DNA_784MB_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 138,
-      "name": "Eros and Apollo",
-      "author": "Puurokulho",
-      "pack": "DivinElegy's 2nd Gimmick Competition",
-      "supports": "5.0+",
-      "download": "https://www.dropbox.com/s/bzx5i6eo4aysz4q/Eros%20and%20Apollo%20%5BStepmania%205%5D.zip?dl=0"
-    },
-    {
-      "id": 139,
-      "name": "M.A.Y.U.",
-      "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "https://www.dropbox.com/s/23qj23oqznr6n9o/Mayu%20%5BStepmania%205%5D.zip?dl=0"
-    },
-    {
-      "id": 140,
-      "name": "Dawn of Asia",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/07t9sv3ii9tcdbs/Dawn_of_Asia_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 141,
-      "name": "Ops:Code-Rapture-",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/7tdhxmfw7ad9cw6/Ops_Code_Rapture_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 142,
-      "name": "XROSS INFECTION",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/0tlth8xm8ggojlk/XROSS_INFECTION_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 143,
-      "name": "Shamisen Drives The Wind",
-      "author": "NAYOTO",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/e4d1h3pdmw8tbh8/Shamisen_Drives_The_Wind_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 144,
-      "name": "Shiawase Transmission",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/z5furad0a2vf4np/Shiawase_Transmission_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 145,
-      "name": "good high school",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/33w2e13cyiknmm0/good_high_school_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 146,
-      "name": "Sakuramichi Overdrive [ARM Remix]",
-      "author": "TaroNuke",
-      "pack": "UKSRT7.3",
-      "supports": "5.0+",
-      "download": "https://www.dropbox.com/s/uzq383xvf8o4ldk/Sakuramichi%20Overdrive%20%5BStepmania%205%5D.zip?dl=0"
-    },
-    {
-      "id": 147,
-      "name": "XyHATTE",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/g2ji8jpl6s69653/XyHATTE_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 148,
-      "name": "There's Supposed To Be A Cheat Code For Happiness",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.dropbox.com/s/mzsklbxfdzule4y/There%27s%20Supposed%20To%20Be%20A%20Cheat%20Code%20For%20Happiness%20%5BStepmania%205%5D.zip?dl=0"
-    },
-    {
-      "id": 149,
-      "name": "WAVE WAVE WAVE",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/8d34ncs34x3p609/WAVE_WAVE_WAVE_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 150,
-      "name": "ON FIRE",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/99hd783b0zta9d9/ON_FIRE_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 151,
-      "name": "Ringside",
-      "author": "WinDEU",
-      "pack": "DOWNS 3",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/6qwbsnqmx2nchoq/Ringside_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 152,
-      "name": "Neko Kuma Usasaa",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/m35g7tns7ye5mx3/Neko_Kuma_Usasaa_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 153,
-      "name": "Grip & Break Down!! -SDVX Edit-",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.dropbox.com/s/ep5eoyy0v8kzgvr/Grip%20%26%20Break%20down%21%21%20-SDVX%20Edit.-%20%5BStepmania%205%5D.zip?dl=0"
-    },
-    {
-      "id": 154,
-      "name": "shiningray",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.dropbox.com/s/ztnspywej2gcjpp/shiningray%20%5BStepmaina%205%5D.zip?dl=0"
-    },
-    {
-      "id": 155,
-      "name": "Jump!",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/up26rl11cd81acc/Jump%2521_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 156,
-      "name": "Brain Power",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/y55omhasayp8kob/Brain_Power_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 157,
-      "name": "Get F**ked",
-      "author": "TaroNuke",
-      "pack": "UKSRT8",
-      "supports": "5.1+",
-      "download": "https://www.dropbox.com/s/rcw86ospjyw0acc/Get%20F%2A%2Aked%20%5BStepmania%205.1%2B%5D.zip?dl=0"
-    },
-    {
-      "id": 158,
-      "name": "Sayonara Planet Wars",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/noik9pbhfo8lrn6/Sayonara_Planet_Wars_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 159,
-      "name": "Turn The Lights Off",
-      "author": "ladychain",
-      "pack": "ivinElegy's 2nd Gimmick Competition",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/11xoot72c8bblif/Turn_The_Lights_Off_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 160,
-      "name": "Rampage",
-      "author": "CondorTalon",
-      "pack": "Mods Boot Camp 2",
-      "supports": "5.0+",
-      "download": "https://www.dropbox.com/s/lmcg5mn9t749jcl/Rampage%20%5BStepmania%205%5D.zip?dl=0"
-    },
-    {
-      "id": 161,
-      "name": "All You Can Stream Buffet",
-      "author": "TaroNuke",
-      "pack": "UKSRT7",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/l2z9cjipesmklhf/AllYouCanStreamBuffet_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 162,
-      "name": "Candy Candy",
-      "author": "BrightXeno",
-      "pack": "",
-      "supports": "5.1+",
-      "download": "https://www.mediafire.com/file/m2bledszze9e6to/Candy_Candy_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 163,
-      "name": "PID",
-      "author": "TaroNuke & Puurokulho",
-      "pack": "UKSRT4",
-      "supports": "5.1+",
-      "download": "https://www.mediafire.com/file/4504uuh9btc6ljj/PID_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 164,
-      "name": "Space Diver Tama",
-      "author": "WinDEU",
-      "pack": "WinDEU Hates You: IROOT",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/a0tor320z97xqsf/Space_Diver_Tama_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 165,
-      "name": "Crazy Babe",
-      "author": "Jose_Varela",
-      "pack": "",
-      "supports": "5.1+",
-      "download": "https://www.mediafire.com/file/f9yujeiiwj3dpas/Crazy_Babe_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 166,
-      "name": "Computer Graphics Demonstration Tape",
-      "author": "Jose_varela",
-      "pack": "",
-      "supports": "5.1+",
-      "download": "https://www.mediafire.com/file/3xu3bx2i55eqdwd/Computer_Graphics_Demonstration_Tape_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 167,
-      "name": "UKSRT2 Credits",
-      "author": "TaroNuke",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/apxnah3lfy8lh3l/Credits_%2528UKSRT2%2529_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 168,
-      "name": "Pet Peeve",
-      "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/0nzj9l3qo5btcf7/Pet_Peeve_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 169,
-      "name": "World Revolution",
-      "author": "WinDEU",
-      "pack": "DivinElegy's 1st Gimmick Competition",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/ntupe0kfg67s1ot/World_Revolution_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 170,
-      "name": "Super Happy Hyper Hardcore Fun Time!",
+      "supports": "5",
+      "download": "https://youtu.be/ZmVNd3j-USw",
       "author": "Warpdr!ve",
-      "pack": "DivinElegy's 2nd Gimmick",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/l8xwlwn0oknb72a/SHHHFT_%255BStepmania_5%255D.zip/file"
+      "pack": "DOWNS 5"
     },
     {
-      "id": 171,
-      "name": "Tactical Arrow Stomping Action",
+      "id": "97",
+      "name": "The Sampling Paradise",
+      "supports": "5",
+      "download": "https://youtu.be/x0NkhO35jsU",
+      "author": "WinDEU",
+      "pack": "DOWNS 3"
+    },
+    {
+      "id": "98",
+      "name": "Perfect Cherry Storm",
+      "supports": "5",
+      "download": "https://youtu.be/Fst03aO2ZOc",
+      "author": "WinDEU",
+      "pack": "WinDEU Loves You"
+    },
+    {
+      "id": "99",
+      "name": "Long Invulnerability",
+      "supports": "5",
+      "download": "https://youtu.be/ucHImQ6SePs",
+      "author": "SteveReen",
+      "pack": "DivinElegy's 3rd Gimmick Competition"
+    },
+    {
+      "id": "100",
+      "name": "Firestorm",
+      "supports": "5",
+      "download": "https://youtu.be/r42ih6myQsw",
+      "author": "WinDEU",
+      "pack": "Mods Boot Camp"
+    },
+    {
+      "id": "101",
+      "name": "G-LOOP",
+      "supports": "5.1+",
+      "download": "https://youtu.be/FREttBVKlIU",
       "author": "TaroNuke",
-      "pack": "UKSRT7.3",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/vdldu53vhpi3gad/Tactical_Arrow_Stomping_Action_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT4"
     },
     {
-      "id": 172,
-      "name": "Pernicious Deed",
-      "author": "TaroNuke & WinDEU",
-      "pack": "UKSRT7",
+      "id": "102",
+      "name": "Toshisan's Nightmare",
+      "supports": "5",
+      "download": "https://youtu.be/z8l57CRijGQ",
+      "author": "NAYOTO.",
+      "pack": ""
+    },
+    {
+      "id": "103",
+      "name": "lootus",
       "supports": "5.1+",
-      "download": "http://www.mediafire.com/file/c25z3t5uzzsix0w/Pernicious_Deed_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 173,
-      "name": "All Clear!!",
-      "author": "FMS_Cat",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/7k0y0l7n13dc9qd/All_Clear%2521%2521_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 174,
-      "name": "Bloom",
-      "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/yypgoe8prp4b592/Bloom_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 175,
-      "name": "disco KAWAii",
-      "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/72fjfmf38fa3mav/Disco_Kawaii_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 176,
-      "name": "Dream Control",
-      "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/9qyqxl7yvh12rao/Dream_Control_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 177,
-      "name": "Catadioptric",
-      "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/k9k7ivv44y5h9c4/Catadioptric_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 178,
-      "name": "Opium and Purple Haze",
-      "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/8xxag8ods2yysqb/Opium_and_Purple_Haze_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 179,
-      "name": "Deadlock XXX",
-      "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/g42lgxuh1ewl66g/Deadlock_XXX_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 180,
-      "name": "Alpha Omega",
-      "author": "WinDEU",
-      "pack": "Mods Boot Camp",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/2maakw6a98krk4a/Alpha_Omega_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 181,
-      "name": "Tang Pong",
-      "author": "TaroNuke & Puuro",
-      "pack": "UKSRT8",
-      "supports": "5.1+",
-      "download": "http://www.mediafire.com/file/hen6l2a8a3c189g/Tang_Pong_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 182,
-      "name": "Dodon Ga Do~n",
-      "author": "BrightXeno",
-      "pack": "",
-      "supports": "5.1+",
-      "download": "http://www.mediafire.com/file/8x39dnctkpqhva7/Dodon_ga_do%257En_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 183,
-      "name": "Hit The Arrow: THE MOVIE!",
+      "download": "https://youtu.be/f52F7IKFb4c",
       "author": "TaroNuke",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/lam1z66l5dz3v2p/HitTheArrow_%255BStepmania_5%255D.zip/file"
+      "pack": "Galactic Gladiators"
     },
     {
-      "id": 184,
-      "name": "Teknopathetic",
-      "author": "TaroNuke & Puuro",
-      "pack": "UKSRT7",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/tdaeeg22e134eut/Teknopathetic_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 185,
-      "name": "Etude",
-      "author": "BlueGuy",
-      "pack": "",
-      "supports": "5.1+",
-      "download": "https://www.dropbox.com/s/fmrg3jm4zpwo39s/Etude%20%5BStepmania%205.1%2B%5D.zip?dl=0"
-    },
-    {
-      "id": 186,
-      "name": "Negator",
-      "author": "TaroNuke & Puuro",
-      "pack": "UKSRT2",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/pg21q70i4a8li3r/Negator_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 187,
-      "name": "10-1",
-      "author": "TaroNuke & Puuro",
-      "pack": "UKSRT8",
-      "supports": "5.1+",
-      "download": "http://www.mediafire.com/file/luh4hxkb82zo4ul/10-1_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 188,
-      "name": "We Are The Loss",
-      "author": "Daikyi, TaroNuke, Exschwasion, Halcyoniix, CondorTalon & Ky_Dash",
-      "pack": "We Are The Loss",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/foddeeh6gmo6jk0/We_Are_the_Loss_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 189,
-      "name": "Tem Shop(Ben Briggs Glitch Hop Remix)",
-      "author": "BlueGuy",
-      "pack": "",
-      "supports": "5.1+",
-      "download": "http://www.mediafire.com/file/o8uv96unc67z2nv/Tem_Shop_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 190,
-      "name": "Paradoxy",
-      "author": "NAYOTO",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/onfv5lkrr2onx3u/Paradoxy_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 191,
-      "name": "Turndup",
-      "author": "NAYOTO",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/rzabzydy6dy11x1/Turndup_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 192,
-      "name": "Body Magic",
-      "author": "TaroNuke & CosmicLAER",
-      "pack": "DivinElegy's 3rd Gimmick Competition",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/w1a2tj7r9dc7fsn/Body_Magic_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 193,
-      "name": "broadcast",
-      "author": "halcyoniix",
-      "pack": "",
-      "supports": "5.1+",
-      "download": "http://www.mediafire.com/file/cpqnt2h84c72kz8/broadcast_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 194,
-      "name": "TRICKL4SH 220",
-      "author": "Exschwasion",
-      "pack": "",
-      "supports": "5.1+",
-      "download": "http://www.mediafire.com/file/ew89yc898ds1h1d/TRICKL4SH_220_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 195,
-      "name": "Defrag Dance",
+      "id": "104",
+      "name": "The Rotter Tarmination",
+      "supports": "5",
+      "download": "https://youtu.be/7g0K2AphDog",
       "author": "TaroNuke",
-      "pack": "UKSRT9",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/5h9m1xchmas84uh/Defrag_Dance_%255BStepmania_5%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 196,
-      "name": "Garden Heaven/Tentei",
-      "author": "TaroNuke",
-      "pack": "UKSRT3",
-      "supports": "5.1+",
-      "download": "http://www.mediafire.com/file/ucwd3easq7adx8k/GardenHeaven_%255BStepMania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 197,
-      "name": "Cycle of Rebirth",
-      "author": "TaroNuke",
-      "pack": "UKSRT3",
-      "supports": "5.1+",
-      "download": "http://www.mediafire.com/file/rb74qy29bzq6wwa/Cycle_of_Rebirth_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 198,
-      "name": "Snow In July",
-      "author": "XeroOl",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/i525j5ct793juni/Snow_in_July_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 199,
-      "name": "Edge of the World",
-      "author": "XeroOl",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "http://www.mediafire.com/file/2l41iqegt1i6mqk/Edge_Of_The_World_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 200,
-      "name": "The Sky of Sadness -vastitude remix-",
-      "author": "TaroNuke",
-      "pack": "UKSRT7",
-      "supports": "5.1+",
-      "download": "http://www.mediafire.com/file/29tki3269fb9cj5/The_Sky_of_Sadness_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 201,
-      "name": "VOLT",
-      "author": "TaroNuke",
-      "pack": "UKSRT9",
-      "supports": "5.3",
-      "download": "https://www.dropbox.com/s/k57g0uakxhpsf8s/VOLT%20%5BStepmania%205.3%5D.zip?dl=0"
-    },
-    {
-      "id": 202,
-      "name": "Meteorize",
+      "id": "105",
+      "name": "Rob Swire Has A Nervous Breakdown",
+      "supports": "5",
+      "download": "https://youtu.be/JoC8F5Uafxw",
       "author": "WinDEU",
-      "pack": "WHY 401k",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/l92zg3e2avjwb9m/Meteorize_%255BStepmania_5%255D.zip/file"
+      "pack": "DOWNS 5"
     },
     {
-      "id": 203,
-      "name": "m1dy deluxe",
+      "id": "106",
+      "name": "The Medley of Kirby SSDX",
+      "supports": "5",
+      "download": "https://youtu.be/prn8Vg5vPow",
+      "author": "Jayce/peekingboo",
+      "pack": "Gay4Gimmix 3"
+    },
+    {
+      "id": "107",
+      "name": "Past The Bolted Door",
+      "supports": "5",
+      "download": "https://youtu.be/ajkhDTCM8uk",
+      "author": "WinDEU",
+      "pack": "WinDEU Hates You: IROOT"
+    },
+    {
+      "id": "108",
+      "name": "Groundhog",
+      "supports": "5",
+      "download": "https://youtu.be/qX34BTKmUHU",
+      "author": "Gezoda/Gangetsha",
+      "pack": ""
+    },
+    {
+      "id": "109",
+      "name": "Sick Wubs",
+      "supports": "5",
+      "download": "https://youtu.be/0vpkC1DvaAE",
+      "author": "WinDEU",
+      "pack": ""
+    },
+    {
+      "id": "110",
+      "name": "VerTex^3",
+      "supports": "5",
+      "download": "https://youtu.be/-Z0Qx5uFxis",
+      "author": "",
+      "pack": "ITG 3"
+    },
+    {
+      "id": "111",
+      "name": "Y2Z",
+      "supports": "5",
+      "download": "https://youtu.be/QCTfwTE2PWo",
+      "author": "",
+      "pack": "ITG 3"
+    },
+    {
+      "id": "112",
+      "name": "kioku [unconnected]",
+      "supports": "5.1+",
+      "download": "https://youtu.be/jJ9gk5w7P1c",
+      "author": "TaroNuke",
+      "pack": "UKSRT8"
+    },
+    {
+      "id": "113",
+      "name": "Absurd Gaff",
+      "supports": "5",
+      "download": "https://youtu.be/sj0IpBranng",
       "author": "MIKO",
-      "pack": "DOWNS 5",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/18m0zq2x678vya7/m1dy_deluxe_%255BStepmania_5%255D.zip/file"
+      "pack": "DOWNS 4"
     },
     {
-      "id": 204,
-      "name": "thosestairs.crs",
+      "id": "114",
+      "name": "Sort Game",
+      "supports": "5",
+      "download": "https://youtu.be/dcScbB1IPAE",
       "author": "TaroNuke",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/84qths16skd9du3/thosestairs.swf_%255BStepmania_5%255D.zip/file"
+      "pack": "UKSRT8"
     },
     {
-      "id": 205,
-      "name": "Princess Mimi's Quality Fun Time",
-      "author": "TaroNuke & CosmicLAER",
-      "pack": "DivinElegy's 3rd Gimmick",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/6n7oozohaicobz2/Princess_Mimi%2527s_Quality_Fun_Time_%255BStepmania_5%255D.zip/file"
+      "id": "115",
+      "name": "Let Me Drive",
+      "supports": "5",
+      "download": "https://youtu.be/ccUI36tajOo",
+      "author": "Telperion",
+      "pack": ""
     },
     {
-      "id": 206,
-      "name": "GOODBOUNCE",
-      "author": "Exschwasion",
-      "pack": "",
+      "id": "116",
+      "name": "Cytokinesis",
+      "supports": "5",
+      "download": "https://youtu.be/zkwxeGUuMAg",
+      "author": "WinDEU",
+      "pack": ""
+    },
+    {
+      "id": "117",
+      "name": "Twin Rocket",
+      "supports": "5",
+      "download": "https://youtu.be/RdOXgu2Hito",
+      "author": "WinDEU",
+      "pack": "Mods Boot Camp"
+    },
+    {
+      "id": "118",
+      "name": "Rubeus",
+      "supports": "5",
+      "download": "https://youtu.be/qAWAb-ro4Mw",
+      "author": "WinDEU",
+      "pack": "Mods Boot Camp"
+    },
+    {
+      "id": "119",
+      "name": "Discloze",
+      "supports": "5",
+      "download": "https://youtu.be/YcoYD4evgXg",
+      "author": "WinDEU",
+      "pack": "Mods Boot Camp"
+    },
+    {
+      "id": "120",
+      "name": "Pieces of a Dream",
+      "supports": "5",
+      "download": "https://youtu.be/P_kdmXRjsbk",
+      "author": "WinDEU",
+      "pack": "Mods Boot Camp"
+    },
+    {
+      "id": "121",
+      "name": "ArrowQuest",
+      "supports": "5",
+      "download": "https://youtu.be/F_jMPyQFexk",
+      "author": "TaroNuke",
+      "pack": "DivinElegy's 2nd Gimmick Competition"
+    },
+    {
+      "id": "122",
+      "name": "Haunted House",
+      "supports": "5",
+      "download": "https://youtu.be/j-2c_cfwibE",
+      "author": "WinDEU",
+      "pack": "WinDEU Hates You 401k"
+    },
+    {
+      "id": "123",
+      "name": "OctoToxin",
       "supports": "5.1+",
-      "download": "https://www.mediafire.com/file/juxbfvgf8hhq8cg/GOODBOUNCE_%255BStepmania_5.1%252B%255D.zip/file"
-    },
-    {
-      "id": 207,
-      "name": "Marble Machine",
-      "author": "Yukiko",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.dropbox.com/s/m50s6wol5acw348/Marble%20Machine%20%5BStepmania%205.3%5D.zip?dl=0"
-    },
-    {
-      "id": 208,
-      "name": "There's Supposed To Be A Cheat Code For Happiness",
-      "author": "NAYOTO",
-      "pack": "",
-      "supports": "5.",
-      "download": "https://www.mediafire.com/file/49qopj4unqa9asy/Shiawase_ni_Nareru_Kakushi_Command_ga_Arurashii_%255BStepmania_5.3%255D.zip/file"
-    },
-    {
-      "id": 209,
-      "name": "errctl",
-      "author": "Kirby5464",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/xqun0find3foxvn/errctl_%2528Kirby5464%2529_%255BStepmania_5.3%255D.zip/file"
-    },
-    {
-      "id": 210,
-      "name": "matoi",
+      "download": "https://youtu.be/D3XUD22lAsg",
       "author": "TaroNuke",
-      "pack": "UKSRT8",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/ddfxkg6g9pxh33i/Matoi_%255BStepmania_5.3%255D.zip/file"
+      "pack": "UKSRT4"
     },
     {
-      "id": 211,
-      "name": "Party Rock Anthem",
-      "author": "Zetorux",
-      "pack": "DOWNS 2",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/6a6777hki3hme1e/Party_Rock_Anthem_%2528Zetorux%2529_%255BStepmania_5%255D.zip/file"
+      "id": "124",
+      "name": "Continew",
+      "supports": "5",
+      "download": "https://youtu.be/X5jla9yUKVw",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
     },
     {
-      "id": 212,
-      "name": "NEXT STAGE",
-      "author": "Daikyi",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/r70df3rxf7p20by/NEXT_STAGE_%255BDaikyi%255D_%255BStepmania_5.3%255D.zip/file"
+      "id": "125",
+      "name": "Rings Of Rainbow",
+      "supports": "5",
+      "download": "https://youtu.be/0y7KcDUX7wg",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
     },
     {
-      "id": 213,
-      "name": "Juggler's Madness",
-      "author": "Vinyl Melody",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/ff88ui9zjfmv67x/Juggler%2527s_Maddness_%255BMelody%255D_%255BStepmania_5%255D.zip/file"
+      "id": "126",
+      "name": "Crimson Sword Dance",
+      "supports": "5",
+      "download": "https://youtu.be/jogE45bhu78",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
     },
     {
-      "id": 214,
-      "name": "neboke",
-      "author": "Electrica",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/tokblf51vkmgenz/neboke_%255BStepmania_5.3%255D.zip/file"
+      "id": "127",
+      "name": "INFINITY OVERDRIVE",
+      "supports": "5",
+      "download": "https://youtu.be/S-pCov4IMiE",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
     },
     {
-      "id": 215,
-      "name": "Routing",
-      "author": "Daikyi",
-      "pack": "Celestial Harbor",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/ucedrp99nzkra3h/Routing_%255BDaikyi%255D_%255BStepmania_5.3%255D.zip/file"
+      "id": "128",
+      "name": "Issen",
+      "supports": "5",
+      "download": "https://youtu.be/9vbxnfJdLH4",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
     },
     {
-      "id": 216,
-      "name": "photograph",
-      "author": "Jose_Varela",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/219ofcv1p40ijxj/photograph_%255BStepmania_5.3%255D.zip/file"
+      "id": "129",
+      "name": "Machine Gun",
+      "supports": "5.1+",
+      "download": "https://youtu.be/ops4J9Rnfog",
+      "author": "TaroNuke & Puurokulho",
+      "pack": "UKSRT7.3"
     },
     {
-      "id": 217,
-      "name": "Forever",
-      "author": "ChocoboGamer",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.dropbox.com/s/i5i9xgqyzzdfax5/Forever%20%28S3rl%29%20%5BStepmania%205.3%5D.zip?dl=0"
+      "id": "130",
+      "name": "Double Universe",
+      "supports": "5",
+      "download": "https://youtu.be/P195iymIPPU",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
     },
     {
-      "id": 218,
-      "name": "Earth",
-      "author": "Jose_Varela",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/9omcmabhpinvae7/Earth_%255BJose_Varela%255D_%255BStepmania_5.3%255D.zip/file"
+      "id": "131",
+      "name": "CENSORED!!",
+      "supports": "5",
+      "download": "https://youtu.be/6DDLUjk9doE",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
     },
     {
-      "id": 219,
-      "name": "Atlantis",
-      "author": "XeroOl",
-      "pack": "XMOD",
-      "supports": "5.3",
-      "download": "https://www.dropbox.com/s/rpxfxuepaeeoruf/%285%29%20Atlantis%20%5BStepmania%205.3%5D.zip?dl=0"
+      "id": "132",
+      "name": "Mirai Prism",
+      "supports": "5",
+      "download": "https://youtu.be/YxLzeWfvNa8",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
     },
     {
-      "id": 220,
-      "name": "starlight station",
-      "author": "Exschwasion",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/ou9mns8sr148yyt/starlight_station_%255BStepmania_5.3%255D.zip/file"
+      "id": "133",
+      "name": "Virtual Sunrise (xac remix)",
+      "supports": "5",
+      "download": "https://youtu.be/iA5aOTsnSko",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
     },
     {
-      "id": 221,
-      "name": "crystallized",
-      "author": "Daikyi",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.dropbox.com/s/1zebiowq5rnrkub/crystallized%20%5BStepmania%205.3%5D.zip?dl=0"
+      "id": "134",
+      "name": "KAC 2012 Ultimate Medley Extend",
+      "supports": "5",
+      "download": "https://youtu.be/cIQZIcwih5w",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
     },
     {
-      "id": 222,
-      "name": "Maze of Vignere Square",
-      "author": "WinDEU",
-      "pack": "Modster Mash 2",
-      "supports": "5.3",
-      "download": "https://www.dropbox.com/s/7rkeykkss8oy52p/Maze%20of%20Vignere%20Square%20%5BStepmania%205.3%5D.zip?dl=0"
+      "id": "135",
+      "name": "Preserved Valkyria",
+      "supports": "5",
+      "download": "https://youtu.be/T-Qzyw8ouX0",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
     },
     {
-      "id": 223,
-      "name": "ANOMALY",
-      "author": "Daikyi",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.dropbox.com/s/0fybqm0bbs9jyyr/Anomaly%20%5BDaikyi%5D%20%20%5BStepmania%205.3%5D.zip?dl=0"
+      "id": "136",
+      "name": "Crack Traxxxx",
+      "supports": "5",
+      "download": "https://youtu.be/pGcqM050YDg",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
     },
     {
-      "id": 224,
-      "name": "GOODTEK",
-      "author": "Exschwasion",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/stdwddstqq929h1/GOODTEK_%255BStepmania_5.3%255D.zip/file"
+      "id": "137",
+      "name": "DNA_784MB",
+      "supports": "5",
+      "download": "https://youtu.be/mMXRoaA8iCo",
+      "author": "Rikame",
+      "pack": "DivinElegy's 1st Gimmick Competition"
     },
     {
-      "id": 225,
-      "name": "Getting It Done",
-      "author": "XeroOl",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/v5rouj6uwr5pb2c/Getting_it_Done_%255BStepmania_5.3%255D.zip/file"
-    },
-    {
-      "id": 226,
-      "name": "Modelista",
-      "author": "sorae",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/aqjimlj66q43ymr/Modelista_%255BStepmania_5.3%255D.zip/file"
-    },
-    {
-      "id": 227,
-      "name": "Lawn Wake XI",
-      "author": "WinDEU",
-      "pack": "WinDEU Hates You Forever",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/orfbcomvdfuji13/Lawn_Wake_XI_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 228,
-      "name": "Synchronization",
-      "author": "CERiNG & TaroNuke",
-      "pack": "NJSRT1",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/fouhv3mwrhu2nwt/Synchronization_%255BStepmania_5.3%255D.zip/file"
-    },
-    {
-      "id": 229,
-      "name": "Energy Synergy Matrix",
-      "author": "BrightXeno",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.dropbox.com/s/efawwa9ynm83lfz/Energy%20Synergy%20Matrix%20%5BStepmania%205.3%5D.zip?dl=0"
-    },
-    {
-      "id": 230,
-      "name": "umbrelloid 42",
-      "author": "kaypooma",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/1qft38tuvzmssw7/umbrelloid_42_%255BStepmania_5.3%255D.zip/file"
-    },
-    {
-      "id": 231,
-      "name": "Reinvent",
-      "author": "Kirby5464",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/dcm07gl64dhhoif/Reinvent_%2528Kirby5464%2529_%255BStepmania_5.3%255D.zip/file"
-    },
-    {
-      "id": 232,
-      "name": "Camera Eyes",
-      "author": "Ky_Dash",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.dropbox.com/s/c43l3azlggm34r8/Camera%20Eyes%20%5BStepmania%205.3%5D.zip?dl=0"
-    },
-    {
-      "id": 233,
-      "name": "Goblin Girl",
-      "author": "Stepmaniac",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/vc0b3brilyd114m/Goblin_Girl_%255BStepmania_5.3%255D.zip/file"
-    },
-    {
-      "id": 234,
-      "name": "Take A Kick",
-      "author": "Halcyoniix",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/wuqn9yxc1tlgj34/Take_A_Kick_%255BStepmania_5.3%255D.zip/file"
-    },
-    {
-      "id": 235,
-      "name": "Blue Star Parade",
-      "author": "Ky_Dash",
-      "pack": "Modster Mash 3",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/x9luc3xlvu73fqb/Blue_Star_Parade_%255BStepmania_5.3%255D.zip/file"
-    },
-    {
-      "id": 236,
-      "name": "Try It Again",
-      "author": "ladychain",
-      "pack": "DOWNS 4",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/432fmlj0eszfyhq/Try_It_Again_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 237,
-      "name": "Electrocution",
-      "author": "NotITGFan61",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/emoquozwejlych5/Electrocution_%255BStepmania_5.3%255D.zip/file"
-    },
-    {
-      "id": 238,
-      "name": "H",
-      "author": "ChocoboGamer",
-      "pack": "Pack of Quality Shitposts",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/8sqqspaug9hal12/H_%255BStepmania_5.3%255D.zip/file"
-    },
-    {
-      "id": 239,
-      "name": "Border Of Life",
-      "author": "WinDEU",
-      "pack": "WinDEU Hates You Forever",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/83u3u7vzrur6zrd/Border_Of_Life_%255BStepmania_5%255D.zip/file"
-    },
-    {
-      "id": 240,
-      "name": "MAWARU and The Magician's Curse",
-      "author": "TaroNuke",
-      "pack": "Modster Mash 3",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/la7ohoeryhld6g4/Mawaru10_%255BStepmania_5.3%255D.zip/file"
-    },
-    {
-      "id": 241,
-      "name": "Dial Me In",
+      "id": "138",
+      "name": "Eros and Apollo",
+      "supports": "5",
+      "download": "https://youtu.be/l57ndKhlkto",
       "author": "Puurokulho",
-      "pack": "",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/y6z4pwrh0vorfuj/Dial_Me_In_%255BStepmania_5%255D.zip/file"
+      "pack": "DivinElegy's 2nd Gimmick Competition"
     },
     {
-      "id": 242,
-      "name": "More & More",
-      "author": "Zetorux",
-      "pack": "DOWNS1",
-      "supports": "5.0+",
-      "download": "https://www.dropbox.com/s/p799pqpdvu6kf66/More%20%26%20More%20%5BStepmania%205%5D.zip?dl=0"
+      "id": "139",
+      "name": "M.A.Y.U.",
+      "supports": "5",
+      "download": "https://youtu.be/_F0O9v6WNY0",
+      "author": "WinDEU",
+      "pack": "Mods Boot Camp"
     },
     {
-      "id": 243,
-      "name": "Baby Pink",
+      "id": "140",
+      "name": "Dawn of Asia",
+      "supports": "5",
+      "download": "https://youtu.be/DsTvxVSDdGI",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
+    },
+    {
+      "id": "141",
+      "name": "Ops:Code-Rapture-",
+      "supports": "5",
+      "download": "https://youtu.be/rrQNi7Wu-yc",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
+    },
+    {
+      "id": "142",
+      "name": "XROSS INFECTION",
+      "supports": "5",
+      "download": "https://youtu.be/0uZI2Cs-drQ",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
+    },
+    {
+      "id": "143",
+      "name": "Shamisen Drives The Wind",
+      "supports": "5",
+      "download": "https://youtu.be/Rab2AsBREyw",
+      "author": "NAYOTO.",
+      "pack": ""
+    },
+    {
+      "id": "144",
+      "name": "Shiawase Transmission",
+      "supports": "5",
+      "download": "https://youtu.be/-TtsDX1ueOU",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
+    },
+    {
+      "id": "145",
+      "name": "good high school",
+      "supports": "5",
+      "download": "https://youtu.be/u8qW39hBFP0",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
+    },
+    {
+      "id": "146",
+      "name": "Sakuramichi Overdrive [ARM Remix]",
+      "supports": "5",
+      "download": "https://youtu.be/pVNtTcIyuSQ",
+      "author": "TaroNuke",
+      "pack": "UKSRT7.3"
+    },
+    {
+      "id": "147",
+      "name": "XyHATTE",
+      "supports": "5",
+      "download": "https://youtu.be/RK0dWJ5ucFM",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
+    },
+    {
+      "id": "148",
+      "name": "There's Supposed To Be A Cheat Code For Happiness",
+      "supports": "5",
+      "download": "https://youtu.be/qIKL4Wd2T8c",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
+    },
+    {
+      "id": "149",
+      "name": "WAVE WAVE WAVE",
+      "supports": "5",
+      "download": "https://youtu.be/0YcZRAA0iUc",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
+    },
+    {
+      "id": "150",
+      "name": "ON FIRE",
+      "supports": "5",
+      "download": "https://youtu.be/zQF-VOVMrRQ",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
+    },
+    {
+      "id": "151",
+      "name": "Ringside",
+      "supports": "5",
+      "download": "https://youtu.be/N9KjLLk-3Xo",
+      "author": "WinDEU",
+      "pack": "DOWNS 3"
+    },
+    {
+      "id": "152",
+      "name": "Neko Kuma Usasaa",
+      "supports": "5",
+      "download": "https://youtu.be/4OEgo_GlRS4",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
+    },
+    {
+      "id": "153",
+      "name": "Grip & Break Down!! -SDVX Edit-",
+      "supports": "5",
+      "download": "https://youtu.be/XxGz4KtFV4k",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
+    },
+    {
+      "id": "154",
+      "name": "shiningray",
+      "supports": "5",
+      "download": "https://youtu.be/m_VGkoH2kUo",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
+    },
+    {
+      "id": "155",
+      "name": "Jump!",
+      "supports": "5",
+      "download": "https://youtu.be/327apZ4whLI",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
+    },
+    {
+      "id": "156",
+      "name": "Brain Power",
+      "supports": "5",
+      "download": "https://youtu.be/n2egC-eiWXM",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
+    },
+    {
+      "id": "157",
+      "name": "Get F**ked",
+      "supports": "5.1+",
+      "download": "https://youtu.be/jgWRyqD92Hw",
+      "author": "TaroNuke",
+      "pack": "UKSRT8"
+    },
+    {
+      "id": "158",
+      "name": "Sayonara Planet Wars",
+      "supports": "5",
+      "download": "https://youtu.be/Jc4lw25bpPo",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
+    },
+    {
+      "id": "159",
+      "name": "Turn The Lights Off",
+      "supports": "5",
+      "download": "https://youtu.be/V-nzGqKyBb0",
+      "author": "ladychain",
+      "pack": "DivinElegy's 2nd Gimmick Competition"
+    },
+    {
+      "id": "160",
+      "name": "Rampage",
+      "supports": "5",
+      "download": "https://youtu.be/JyAQq-tQ0lY",
+      "author": "CondorTalon",
+      "pack": "Mods Boot Camp 2"
+    },
+    {
+      "id": "161",
+      "name": "All You Can Stream Buffet",
+      "supports": "5",
+      "download": "https://youtu.be/9Yfyk0WMLtc",
+      "author": "TaroNuke",
+      "pack": "UKSRT7"
+    },
+    {
+      "id": "162",
+      "name": "Candy Candy",
+      "supports": "5.1+",
+      "download": "https://youtu.be/cOg-sVGfMkk",
+      "author": "BrightXeno",
+      "pack": ""
+    },
+    {
+      "id": "163",
+      "name": "PID",
+      "supports": "5.1+",
+      "download": "https://youtu.be/YEWF2QP_Vik",
+      "author": "TaroNuke & Puurokulho",
+      "pack": "UKSRT4"
+    },
+    {
+      "id": "164",
+      "name": "Space Diver Tama",
+      "supports": "5",
+      "download": "https://youtu.be/MWVthAxEoWw",
+      "author": "WinDEU",
+      "pack": "WinDEU Hates You: IROOT"
+    },
+    {
+      "id": "165",
+      "name": "Crazy Babe",
+      "supports": "5.1+",
+      "download": "https://youtu.be/dGjXrYxtTpc",
+      "author": "Jose_Varela",
+      "pack": ""
+    },
+    {
+      "id": "166",
+      "name": "Computer Graphics Demonstration Tape",
+      "supports": "5.1+",
+      "download": "https://youtu.be/iInDjSbN6Y4",
+      "author": "Jose_varela",
+      "pack": ""
+    },
+    {
+      "id": "167",
+      "name": "UKSRT2 Credits",
+      "supports": "5",
+      "download": "https://youtu.be/cTxwAHrnkJE",
+      "author": "TaroNuke",
+      "pack": "UKSRT2"
+    },
+    {
+      "id": "168",
+      "name": "Pet Peeve",
+      "supports": "5",
+      "download": "https://youtu.be/fGad2Rv3-UQ",
+      "author": "WinDEU",
+      "pack": "Mods Boot Camp"
+    },
+    {
+      "id": "169",
+      "name": "World Revolution",
+      "supports": "5",
+      "download": "https://youtu.be/MIhtRMHnCqk",
+      "author": "WinDEU",
+      "pack": "DivinElegy's 1st Gimmick Competition"
+    },
+    {
+      "id": "170",
+      "name": "Super Happy Hyper Hardcore Fun Time!",
+      "supports": "5",
+      "download": "https://youtu.be/65N8Ir3RqXU",
+      "author": "Warpdr!ve",
+      "pack": "DivinElegy's 2nd Gimmick"
+    },
+    {
+      "id": "171",
+      "name": "Tactical Arrow Stomping Action",
+      "supports": "5",
+      "download": "https://youtu.be/m5HYPJXCBuU",
+      "author": "TaroNuke",
+      "pack": "UKSRT7.3"
+    },
+    {
+      "id": "172",
+      "name": "Pernicious Deed",
+      "supports": "5.1+",
+      "download": "https://youtu.be/FwZgD8o5or4",
+      "author": "TaroNuke & WinDEU",
+      "pack": "UKSRT7"
+    },
+    {
+      "id": "173",
+      "name": "All Clear!!",
+      "supports": "5",
+      "download": "https://youtu.be/9zCHjCmPXCU",
+      "author": "FMS_Cat",
+      "pack": "FDEP 4th"
+    },
+    {
+      "id": "174",
+      "name": "Bloom",
+      "supports": "5",
+      "download": "https://youtu.be/Gd71aVh7HpA",
+      "author": "WinDEU",
+      "pack": "Mods Boot Camp"
+    },
+    {
+      "id": "175",
+      "name": "disco KAWAii",
+      "supports": "5",
+      "download": "https://youtu.be/-mjxjMCPKJk",
+      "author": "WinDEU",
+      "pack": "Mods Boot Camp"
+    },
+    {
+      "id": "176",
+      "name": "Dream Control",
+      "supports": "5",
+      "download": "https://youtu.be/Som-c_B74Ek",
+      "author": "WinDEU",
+      "pack": "Mods Boot Camp"
+    },
+    {
+      "id": "177",
+      "name": "Catadioptric",
+      "supports": "5",
+      "download": "https://youtu.be/pM0hLgznllo",
+      "author": "WinDEU",
+      "pack": "Mods Boot Camp"
+    },
+    {
+      "id": "178",
+      "name": "Opium and Purple Haze",
+      "supports": "5",
+      "download": "https://youtu.be/osNuER_fkD0",
+      "author": "WinDEU",
+      "pack": "Mods Boot Camp"
+    },
+    {
+      "id": "179",
+      "name": "Deadlock XXX",
+      "supports": "5",
+      "download": "https://youtu.be/1rxHDYOxUV4",
+      "author": "WinDEU",
+      "pack": "Mods Boot Camp"
+    },
+    {
+      "id": "180",
+      "name": "Alpha Omega",
+      "supports": "5",
+      "download": "https://youtu.be/i0K6EouWxpo",
+      "author": "WinDEU",
+      "pack": "Mods Boot Camp"
+    },
+    {
+      "id": "181",
+      "name": "Tang Pong",
+      "supports": "5.1+",
+      "download": "https://youtu.be/2Ne3GseQiFE",
+      "author": "TaroNuke & Puuro",
+      "pack": "UKSRT8"
+    },
+    {
+      "id": "182",
+      "name": "Dodon Ga Do~n",
+      "supports": "5.1+",
+      "download": "https://youtu.be/3O-ftK_NAZY",
+      "author": "BrightXeno",
+      "pack": ""
+    },
+    {
+      "id": "183",
+      "name": "Hit The Arrow: THE MOVIE!",
+      "supports": "5",
+      "download": "https://youtu.be/AWf67OBB6VU",
+      "author": "TaroNuke",
+      "pack": ""
+    },
+    {
+      "id": "184",
+      "name": "Teknopathetic",
+      "supports": "5",
+      "download": "https://youtu.be/4iD7rE2gBIs",
+      "author": "TaroNuke & Puuro",
+      "pack": "UKSRT7"
+    },
+    {
+      "id": "185",
+      "name": "Etude",
+      "supports": "5.1+",
+      "download": "https://youtu.be/Ujy3GcW9cvM",
+      "author": "BlueGuy",
+      "pack": ""
+    },
+    {
+      "id": "186",
+      "name": "Negator",
+      "supports": "5",
+      "download": "https://youtu.be/igA-WnGSZNY",
+      "author": "TaroNuke & Puuro",
+      "pack": "UKSRT2"
+    },
+    {
+      "id": "187",
+      "name": "10-1",
+      "supports": "5.1+",
+      "download": "https://youtu.be/DOvUzAz75g8",
+      "author": "TaroNuke & Puuro",
+      "pack": "UKSRT8"
+    },
+    {
+      "id": "188",
+      "name": "All files",
+      "supports": "5",
+      "download": "https://youtu.be/Dph-tTaXAXE",
+      "author": "TaroNuke, Daikyi, Exschwasion, Halcyoniix, CondorTalon, Ky_Dash",
+      "pack": "We Are The Loss"
+    },
+    {
+      "id": "189",
+      "name": "Tem Shop (Ben Briggs Glitch Hop Remix)",
+      "supports": "5.1+",
+      "download": "https://youtu.be/c55fAzlv1R0",
+      "author": "BlueGuy",
+      "pack": ""
+    },
+    {
+      "id": "190",
+      "name": "Paradoxy",
+      "supports": "5",
+      "download": "https://youtu.be/aPYXKu_stg4",
+      "author": "NAYOTO.",
+      "pack": ""
+    },
+    {
+      "id": "191",
+      "name": "Turndup",
+      "supports": "5",
+      "download": "https://youtu.be/zjTfRujH4sw",
+      "author": "NAYOTO.",
+      "pack": ""
+    },
+    {
+      "id": "192",
+      "name": "Body Magic",
+      "supports": "5",
+      "download": "https://youtu.be/Ix7l5zVw3tg",
+      "author": "TaroNuke & CosmicLAER",
+      "pack": "DivinElegy's 3rd Gimmick Competition"
+    },
+    {
+      "id": "193",
+      "name": "broadcast",
+      "supports": "5.1+",
+      "download": "https://youtu.be/ZphOiyVjrVY",
+      "author": "halcyoniix",
+      "pack": ""
+    },
+    {
+      "id": "194",
+      "name": "TRICKL4SH 220",
+      "supports": "5.1+",
+      "download": "https://youtu.be/EtXsz2kA-wk",
       "author": "Exschwasion",
-      "pack": "",
-      "supports": "5.3",
-      "download": "https://www.mediafire.com/file/9rwuvxgb6eio2b0/Baby_Pink_%255BStepmania_5.3%255D.zip/file"
+      "pack": ""
     },
     {
-      "id": 244,
-      "name": "Lucky Star Theme ~bathtub remix~",
+      "id": "195",
+      "name": "Defrag Dance",
+      "supports": "5",
+      "download": "https://youtu.be/n5oOBvznHao",
+      "author": "TaroNuke",
+      "pack": "UKSRT9"
+    },
+    {
+      "id": "196",
+      "name": "Garden Heaven",
+      "supports": "5.1+",
+      "download": "https://youtu.be/G8zfZXNuITo",
+      "author": "TaroNuke",
+      "pack": "UKSRT3"
+    },
+    {
+      "id": "197",
+      "name": "Cycle of Rebirth",
+      "supports": "5.1+",
+      "download": "https://youtu.be/cwq0_0RD8i0",
+      "author": "TaroNuke",
+      "pack": "UKSRT3"
+    },
+    {
+      "id": "198",
+      "name": "Snow In July",
+      "supports": "5",
+      "download": "https://youtu.be/PbKg7Hom2EQ",
+      "author": "XeroOI",
+      "pack": ""
+    },
+    {
+      "id": "199",
+      "name": "Edge Of The World",
+      "supports": "5",
+      "download": "https://youtu.be/wYIL_VL_0Ik",
+      "author": "XeroOI",
+      "pack": ""
+    },
+    {
+      "id": "200",
+      "name": "The Sky of Sadness -vastitude remix- ",
+      "supports": "5.1+",
+      "download": "https://youtu.be/jzTna6jicsQ",
+      "author": "TaroNuke",
+      "pack": "UKSRT7"
+    },
+    {
+      "id": "201",
+      "name": "VOLT",
+      "supports": "5.3",
+      "download": "https://youtu.be/TotS-AMCRzI",
+      "author": "TaroNuke",
+      "pack": "UKSRT9"
+    },
+    {
+      "id": "202",
+      "name": "Meteorize",
+      "supports": "5",
+      "download": "https://youtu.be/E3DbTdxNJG4",
+      "author": "WinDEU",
+      "pack": "WinDEU Hates You 401K"
+    },
+    {
+      "id": "203",
+      "name": "m1dy deluxe",
+      "supports": "5",
+      "download": "https://youtu.be/NzTfYU6-YvU",
       "author": "MIKO",
-      "pack": "DOWNS 5",
-      "supports": "5.0+",
-      "download": "https://www.mediafire.com/file/tud67gd4e1q9rrz/Lucky_Star_Theme_%257Ebathtub_remix%257E_%255BStepmania_5%255D.zip/file"
+      "pack": "DOWNS 5"
+    },
+    {
+      "id": "204",
+      "name": "thosestairs.crs",
+      "supports": "5",
+      "download": "https://youtu.be/rHTCp0t1RAI",
+      "author": "TaroNuke",
+      "pack": ""
+    },
+    {
+      "id": "205",
+      "name": "Princess Mimi's Quality Fun Time",
+      "supports": "5",
+      "download": "https://youtu.be/58IfX2L3VY8",
+      "author": "TaroNuke & CosmicLAER",
+      "pack": "DivinElegy's 3rd Gimmick Competition"
+    },
+    {
+      "id": "206",
+      "name": "GOODBOUNCE",
+      "supports": "5.1+",
+      "download": "https://youtu.be/KIscJqTAIb0",
+      "author": "Exschwasion",
+      "pack": ""
+    },
+    {
+      "id": "207",
+      "name": "Marble Machine",
+      "supports": "5.3",
+      "download": "https://youtu.be/dK1zvJZm1-0",
+      "author": "Yukiko",
+      "pack": ""
+    },
+    {
+      "id": "208",
+      "name": "There's Supposed To Be A Cheat Code For Happiness",
+      "supports": "5.3",
+      "download": "https://youtu.be/94AjZjaD1WQ",
+      "author": "NAYOTO.",
+      "pack": ""
+    },
+    {
+      "id": "209",
+      "name": "errctl",
+      "supports": "5.3",
+      "download": "https://youtu.be/Wc27S8sSUV0",
+      "author": "Kirby5464",
+      "pack": ""
+    },
+    {
+      "id": "210",
+      "name": "matoi",
+      "supports": "5.3",
+      "download": "https://youtu.be/6a4uDNuGe9A",
+      "author": "TaroNuke",
+      "pack": "UKSRT8"
+    },
+    {
+      "id": "211",
+      "name": "Party Rock Anthem",
+      "supports": "5",
+      "download": "https://youtu.be/woNs0oa7QK8",
+      "author": "Zetorux",
+      "pack": "DOWNS 2"
+    },
+    {
+      "id": "212",
+      "name": "NEXT STAGE",
+      "supports": "5.3",
+      "download": "https://youtu.be/rU6SntAk8mA",
+      "author": "Daikyi",
+      "pack": ""
+    },
+    {
+      "id": "213",
+      "name": "Juggler's Maddness",
+      "supports": "5",
+      "download": "https://youtu.be/16iavoI17nw",
+      "author": "Vinyl Melody",
+      "pack": ""
+    },
+    {
+      "id": "214",
+      "name": "neboke",
+      "supports": "5.3",
+      "download": "https://youtu.be/d6nrf94Z5PQ",
+      "author": "Electrica",
+      "pack": ""
+    },
+    {
+      "id": "215",
+      "name": "Routing",
+      "supports": "5.3",
+      "download": "https://youtu.be/dWSUag-YegA",
+      "author": "Daikyi",
+      "pack": "Celestial Harbor"
+    },
+    {
+      "id": "216",
+      "name": "photograph",
+      "supports": "5.3",
+      "download": "https://youtu.be/6mjVxTvPVEs",
+      "author": "Jose_varela",
+      "pack": ""
+    },
+    {
+      "id": "217",
+      "name": "Forever",
+      "supports": "5.3",
+      "download": "https://youtu.be/bnzaq-GTwpY",
+      "author": "ChocoboGamer",
+      "pack": ""
+    },
+    {
+      "id": "218",
+      "name": "Earth",
+      "supports": "5.3",
+      "download": "https://youtu.be/RU_7i_jFfXo",
+      "author": "Jose_varela",
+      "pack": ""
+    },
+    {
+      "id": "219",
+      "name": "Atlantis",
+      "supports": "5.3",
+      "download": "https://youtu.be/0R_qzDAx5r4",
+      "author": "XeroOl",
+      "pack": "XMOD"
+    },
+    {
+      "id": "220",
+      "name": "starlight station",
+      "supports": "5.3",
+      "download": "https://youtu.be/LMDjSVqkQEQ",
+      "author": "Exschwasion",
+      "pack": ""
+    },
+    {
+      "id": "221",
+      "name": "crystallized",
+      "supports": "5.3",
+      "download": "https://youtu.be/Lu0Jb578IP4",
+      "author": "Daikyi",
+      "pack": ""
+    },
+    {
+      "id": "222",
+      "name": "Maze of Vignere Square",
+      "supports": "5.3",
+      "download": "https://youtu.be/jYtikw0HugA",
+      "author": "WinDEU",
+      "pack": "Modster Mash 2"
+    },
+    {
+      "id": "223",
+      "name": "ANOMALY",
+      "supports": "5.3",
+      "download": "https://youtu.be/-7YkHL5kmbI",
+      "author": "Daikyi",
+      "pack": ""
+    },
+    {
+      "id": "224",
+      "name": "GOODTEK",
+      "supports": "5.3",
+      "download": "https://youtu.be/7Syhw4nsCVg",
+      "author": "Exschwasion",
+      "pack": ""
+    },
+    {
+      "id": "225",
+      "name": "Getting It Done",
+      "supports": "5.3",
+      "download": "https://youtu.be/Y7XCTjUN9Ik",
+      "author": "XeroOl",
+      "pack": ""
+    },
+    {
+      "id": "226",
+      "name": "Modelista",
+      "supports": "5.3",
+      "download": "https://youtu.be/JIMfkV4RRQk",
+      "author": "Sorae",
+      "pack": ""
+    },
+    {
+      "id": "227",
+      "name": "Lawn Wake XI",
+      "supports": "5",
+      "download": "https://youtu.be/QfC61dNrXnw",
+      "author": "WinDEU",
+      "pack": "WinDEU Hates You Forever"
+    },
+    {
+      "id": "228",
+      "name": "Synchronization",
+      "supports": "5.3",
+      "download": "https://youtu.be/HKO2O_kDEPM",
+      "author": "CERiNG & TaroNuke",
+      "pack": "NJSRT1"
+    },
+    {
+      "id": "229",
+      "name": "Energy Synergy Matrix",
+      "supports": "5.3",
+      "download": "https://youtu.be/zIYjza6HBwQ",
+      "author": "BrightXeno",
+      "pack": ""
+    },
+    {
+      "id": "230",
+      "name": "umbrelloid 42",
+      "supports": "5.3",
+      "download": "https://youtu.be/R_xsORH5ZAY",
+      "author": "kaypooma",
+      "pack": ""
+    },
+    {
+      "id": "231",
+      "name": "Reinvent",
+      "supports": "5.3",
+      "download": "https://youtu.be/V_CEeKNm4HQ",
+      "author": "Kirby5464",
+      "pack": ""
+    },
+    {
+      "id": "232",
+      "name": "Camera Eyes",
+      "supports": "5.3",
+      "download": "https://youtu.be/yFTbIAd7RAo",
+      "author": "Ky_Dash",
+      "pack": ""
+    },
+    {
+      "id": "233",
+      "name": "Goblin Girl",
+      "supports": "5.3",
+      "download": "https://youtu.be/yYMbXN5BkYc",
+      "author": "Stepmaniac",
+      "pack": ""
+    },
+    {
+      "id": "234",
+      "name": "Take A Kick",
+      "supports": "5.3",
+      "download": "https://youtu.be/00p62Yfd7Ks",
+      "author": "halcyoniix",
+      "pack": "MM3, cut stage"
+    },
+    {
+      "id": "235",
+      "name": "Blue Star Parade",
+      "supports": "5.3",
+      "download": "https://youtu.be/aziN9AZJABg",
+      "author": "Ky_Dash",
+      "pack": "Modster Mash 3"
+    },
+    {
+      "id": "236",
+      "name": "Try It Again",
+      "supports": "5",
+      "download": "https://youtu.be/2DokD6wCH5Q",
+      "author": "ladychain",
+      "pack": "DOWNS 4"
+    },
+    {
+      "id": "237",
+      "name": "Electrocution",
+      "supports": "5.3",
+      "download": "https://youtu.be/_caOSPd0v2k",
+      "author": "NotITGFan61",
+      "pack": ""
+    },
+    {
+      "id": "238",
+      "name": "H",
+      "supports": "5.3",
+      "download": "https://youtu.be/Dcos5PokFfo",
+      "author": "ChocoboGamer",
+      "pack": "Pack of Quality Shitposts"
+    },
+    {
+      "id": "239",
+      "name": "Border Of Life",
+      "supports": "5",
+      "download": "https://youtu.be/j1gkDXSKaGs",
+      "author": "WinDEU",
+      "pack": "WinDEU Hates You Forever"
+    },
+    {
+      "id": "240",
+      "name": "MAWARU and the Magician's Curse",
+      "supports": "5.3",
+      "download": "https://youtu.be/2gP8PU0mBYU",
+      "author": "TaroNuke",
+      "pack": "Modster Mash 3"
+    },
+    {
+      "id": "241",
+      "name": "Dial Me In",
+      "supports": "5",
+      "download": "https://youtu.be/dChf1K-jBw4",
+      "author": "Puurokulho",
+      "pack": ""
+    },
+    {
+      "id": "242",
+      "name": "More & More",
+      "supports": "5",
+      "download": "https://youtu.be/UAiPdZtoiFE",
+      "author": "Zetorux",
+      "pack": "DOWNS1"
+    },
+    {
+      "id": "243",
+      "name": "Baby Pink",
+      "supports": "5.3",
+      "download": "https://youtu.be/gny86V5lJFQ",
+      "author": "Exschwasion",
+      "pack": ""
+    },
+    {
+      "id": "244",
+      "name": "Lucky Star Theme ~bathtub remix~",
+      "supports": "5",
+      "download": "https://youtu.be/Zf2clf24vTU",
+      "author": "MIKO",
+      "pack": "DOWNS 5"
     }
   ]
 }

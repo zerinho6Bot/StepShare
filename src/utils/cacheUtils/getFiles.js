@@ -7,6 +7,6 @@ const Cache = require('../../cache/index.js')
  */
 module.exports.getFiles = () => {
   const Files = Object.keys(Cache)
-  StepLog.info(`"Getting files: ${Files.join(', ')}`)
+  StepLog.info(`Getting files: ${Files.join(', ')}`)
   return Files
 }

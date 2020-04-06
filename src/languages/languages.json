@@ -128,8 +128,8 @@
         "pt-br": "Nome do pack"
     },
     "Help_versionNumber": {
-        "en": "Version Number (5.0+, 5.1+ or 5.3)",
-        "pt-br": "Número da versão (5.0+, 5.1+ ou 5.3)"
+        "en": "Version Number (5, 5.1+ or 5.3)",
+        "pt-br": "Número da versão (5, 5.1+ ou 5.3)"
     },
     "Literal_help": {
         "en": "Help",
@@ -160,8 +160,8 @@
         "pt-br": "chart"
     },
     "Chartdealer_typeTheChartNumber": {
-        "en": "Type the number of the chart you want. (You have 1 minute)",
-        "pt-br": "Digite o número do chart que você quer. (Você tem 1 minuto)"
+        "en": "Type the number of the chart you want. (You have 2 minute)",
+        "pt-br": "Digite o número do chart que você quer. (Você tem 2 minuto)"
     },
     "Chartdealer_errorNoHigherPage": {
         "en": "There isn't a higher page.",
@@ -258,5 +258,45 @@
     "language_description": {
         "en": "Define the language of the guild or see the available languages.",
         "pt-br": "Defina a linguagem do servidor ou veja as linguagens disponíveis."
+    },
+    "Literal_updatecharts": {
+        "en": "UpdateCharts",
+        "pt-br": "UpdateCharts"
+    },
+    "updatecharts_description": {
+        "en": "Updates the charts with the newest content from the spreadsheet, only the bot owner and allowed people can use this command.",
+        "pt-br": "Atualiza os charts com o conteudo mais novo do documento de charts, apenas o dono do bot ou pessoas podem usar esse comando."
+    },
+    "Updatecharts_errorOnlyAllowedPeople": {
+        "en": "Only allowed people.",
+        "pt-br": "Apenas pessoas autorizadas"
+    },
+    "Updatecharts_chartsUpdated": {
+        "en": "Charts updated!",
+        "pt-br": "Charts atualizados!"
+    },
+    "Literal_eval": {
+        "en": "Eval",
+        "pt-br": "Eval"
+    },
+    "eval_description": {
+        "en": "Executes the given code.",
+        "pt-br": "Executa um script."
+    },
+    "Eval_errorOnlyBotOwner": {
+        "en": "Only bot owner.",
+        "pt-br": "Apenas o dono do bot."
+    },
+    "Eval_errorNoArgument": {
+        "en": "You forgot to give an argument.",
+        "pt-br": "Você esqueceu de dar um argumento."
+    },
+    "Eval_code": {
+        "en": "Code",
+        "pt-br": "Script"
+    },
+    "Eval_Result": {
+        "en": "Result",
+        "pt-br": "Resultado"
     }
 }

@@ -19,11 +19,13 @@ exports.write = (file, content) => {
     StepLog.info(`Trying to get file ${file}`)
     if (e) {
       StepLog.warn(`Couldn't get file, error: ${e.toString()}`)
+      return
     }
 
     try {
       StepLog.info('Trying to delete file cache.')
-      delete require.cache[require.resolve(Path.join(__dirname, `../../cache/${file}.json`))]
+      Object.keys(require.cache[require.resolve(Path.join(__dirname, `../../cache/${file}.json`))]).forEach((key) => { delete require.cache[key] })
+      // delete require.cache[require.resolve(Path.join(__dirname, `../../cache/${file}.json`))]
     } catch (e) {
       StepLog.warn(`"Could clear cache, error: ${e.toString()}`)
     }

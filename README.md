@@ -5,7 +5,7 @@ Find modded charts ported to SM5 in Discord
 
 ### Find charts
 
-There are 4 commands to find charts: ``chart``, ``author``, ``pack`` and ``version``
+There are 5 commands to find charts: ``chart``, ``author``, ``pack``, ``allcharts`` and ``version``
 Example: ``sh!chart The`` will return all the charts that includes The on their name, if you want charts that only includes ``The``, you should include a ``--l`` flag, example: ``sh!chart The --l``.
 
 After that, the bot will show a list of the charts that he found with the search, and a number will be close to the chart name, you should type the number of the chart you want and he'll give you the
@@ -45,6 +45,10 @@ What things you need to install the software and how to install them
 ```
 TOKEN=The bot token here
 PREFIX=The bot prefix here
+OWNER=Your Discord ID here
+GOOGLE_SERVICE_ACCOUNT_EMAIL="The google service e-mail here"
+GOOGLE_PRIVATE_KEY="The google service private key here"
+SHEET_ID="The spreadsheet id here"
 ```
 
 Remember to rename .envExampe to .env

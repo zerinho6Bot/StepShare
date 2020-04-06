@@ -5,18 +5,22 @@ exports.author = require('./author.js')
 exports.version = require('./version.js')
 exports.help = require('./help.js')
 exports.language = require('./language.js')
+exports.allcharts = require('./allcharts.js')
+exports.updatecharts = require('./updatecharts.js')
+exports.eval = require('./eval.js')
 
 // Should not be included in help.
 exports.chartdealer = require('./chartdealer.js')
 //
 
 exports.advanced = {
-  ChartCategory: ['chart', 'pack', 'author', 'version'],
-  MiscCategory: ['avatar', 'help', 'language']
+  ChartCategory: ['chart', 'pack', 'author', 'version', 'allcharts'],
+  MiscCategory: ['avatar', 'help', 'language', 'updatecharts', 'eval']
 }
 exports.commandNames = [
   'avatar', 'chart',
   'pack', 'author',
   'version', 'help',
-  'language'
+  'language', 'allcharts',
+  'updatecharts', 'eval'
 ]

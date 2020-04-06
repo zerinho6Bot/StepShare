@@ -8,9 +8,8 @@ exports.ChartsManager = class {
   constructor () {
     this.chartsFile = require('../../cache/index.js').charts
     this.charts = this.chartsFile.charts
-    this.chartsLength = this.charts.length
-    this.packsLength = this.chartsWithPacks.length
     this.write = require('../cacheUtils/index.js').Write
+    this.env = process.env
   }
 
   get chartsWithPacks () {
@@ -72,10 +71,10 @@ exports.ChartsManager = class {
    */
   chartsThatSupportVersion (version) {
     switch (version) {
-      case '5.0+':
+      case '5':
         return this.chartsByProperty(version, 'supports', true)
       case '5.1+':
-        return this.charts.filter(chart => chart.version === '5.0+' || chart.version === '5.1+')
+        return this.charts.filter(chart => chart.version === '5' || chart.version === '5.1+')
       default: // 5.3 supports everything.
         return this.charts
     }
@@ -89,6 +88,10 @@ exports.ChartsManager = class {
    * @returns {Object}
    */
   chartsByProperty (name, property, literal = false) {
+    if (!property && (!name || name === '')) {
+      return this.charts
+    }
+
     if (literal) {
       return this.charts.filter(chart => chart[property] === name)
     }
@@ -136,5 +139,54 @@ exports.ChartsManager = class {
     }
 
     this.write('charts', this.chartsFile)
+  }
+
+  /**
+   * @async
+   * Updates the charts file with the content from the given google sheet id
+   */
+  async updateCharts () {
+    const { GoogleSpreadsheet } = require('google-spreadsheet')
+    const Doc = new GoogleSpreadsheet(this.env.SHEET_ID)
+    StepLog.info('Loaded SpreadSheet')
+    await Doc.useServiceAccountAuth({
+      client_email: this.env.GOOGLE_SERVICE_ACCOUNT_EMAIL,
+      private_key: this.env.GOOGLE_PRIVATE_KEY
+    })
+    StepLog.info('Auth got though.')
+    await Doc.loadInfo()
+    StepLog.info('Loaded document')
+    const ConvertedFiles = Doc.sheetsByIndex[0]
+    const Rows = await ConvertedFiles.getRows()
+    const Charts = []
+    StepLog.info('Adding charts')
+    for (let i = 0; i < Rows.length; i++) {
+      const File = Rows[i]
+      /*
+      File:
+        #: Always Exists
+        File Name: Always Exists
+        SM Version: Always Exists
+        YT-Link: Always Exists
+        Author: Might Not Exist
+        Series: Might Not Exist
+      */
+      if (!File || (!File['File Name'] || !File['SM Version'] || !File['YT-Link'])) {
+        continue
+      }
+
+      Charts.push({
+        id: File['#'],
+        name: File['File Name'],
+        supports: File['SM Version'],
+        download: File['YT-Link'],
+        author: File.Author || '',
+        pack: File.Series || ''
+      })
+    }
+    StepLog.info('Writing to json file.')
+    this.chartsFile.charts = Charts
+    this.write('charts', this.chartsFile)
+    this.charts = Charts
   }
 }

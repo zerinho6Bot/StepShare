@@ -27,7 +27,7 @@ exports.run = async ({ message, ArgsManager, FastEmbed, Send, i18n }, propert) =
 
   if (PaginatedCharts.length > 1) {
     const ReactionFilter = (reaction, user) => user.id === message.author.id
-    const Collector = SentMessage.createReactionCollector(ReactionFilter, { time: 60000 })
+    const Collector = SentMessage.createReactionCollector(ReactionFilter, { time: 60000 * 2 })
     const MoondanceEmojis = {
       right: '434489417957376013',
       left: '434489301963898882'
@@ -63,12 +63,12 @@ exports.run = async ({ message, ArgsManager, FastEmbed, Send, i18n }, propert) =
   }
 
   try {
-    const Response = await message.channel.awaitMessages(Filter, { max: 1, time: 60000, errors: ['time'] })
+    const Response = await message.channel.awaitMessages(Filter, { max: 1, time: 60000 * 2, errors: ['time'] })
     const Content = Response.first().content
     const ValidNumbers = ChartsApi.propertyFromChartArray(Chart, 'id')
-    const ParsedContent = parseInt(Content)
+    const ParsedContent = Content
 
-    if (!ValidNumbers.includes(parseInt(ParsedContent))) {
+    if (!ValidNumbers.includes(ParsedContent)) {
       Send('Chartdealer_errorNotValidNumber')
       return
     }
