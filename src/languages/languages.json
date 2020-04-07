@@ -15,17 +15,25 @@
         "en": "No",
         "pt-br": "Não"
     },
+    "Global_minute": {
+        "en": "minute",
+        "pt-br": "minuto"
+    },
+    "Global_minutes": {
+        "en": "minutes",
+        "pt-br": "minutos"
+    },
     "Global_You": {
-        "en": "You",
+        "en": "You're",
         "pt-br": "Você"
     },
     "Global_I": {
-        "en": "I",
-        "pt-br": "Eu"
+        "en": "This bot",
+        "pt-br": "Esse bot"
     },
     "Global_errorMissingPermission": {
-        "en": "{{who}} is the one who's missing {{permission}} permission to execute this command.",
-        "pt-br": "{{who}} é quem está faltando a permissão {{permission}} para executar esse comando."
+        "en": "{{who}} missing {{permission}} permission to execute this command.",
+        "pt-br": "{{who}} precisa da permissão {{permission}} para executar esse comando."
     },
     "Message_errorMissingCommandName": {
         "en": "You forgot to give the command name.",
@@ -34,6 +42,10 @@
     "Message_errorCommandDoesntExist": {
         "en": "That command doesn't exist.",
         "pt-br": "Esse comando não existe."
+    },
+    "Message_errorCooldownWarning": {
+        "en": "Hold on! Wait {{amount}} seconds to use another command.",
+        "pt-br": "Opa! espera {{amount}} antes de usar outro comando."
     },
     "Help_NoArgument": {
         "en": "No argument",
@@ -103,6 +115,10 @@
         "en": "It seems that command doesn't have a help embed defined to it.",
         "pt-br": "Parece que esse comando não tem um embed de ajuda definido para ele."
     },
+    "Help_typeWithCommandName": {
+        "en": "**Type {{prefix}}help commandName to see a manual about that command.\nExample: {{prefix}}help avatar**",
+        "pt-br": "**Digite {{prefix}}help nomeDoComando para ver um manual desse comando.\nExemplo: {{prefix}}help avatar**"
+    },
     "Help_ChartCategory": {
         "en": "Chart Category",
         "pt-br": "Categoria Chart"
@@ -128,8 +144,8 @@
         "pt-br": "Nome do pack"
     },
     "Help_versionNumber": {
-        "en": "Version Number (5, 5.1+ or 5.3)",
-        "pt-br": "Número da versão (5, 5.1+ ou 5.3)"
+        "en": "Version Number (5, 5.0, 5.0+, 5.1, 5.1+ or 5.3)",
+        "pt-br": "Número da versão (5, 5.0, 5.0+, 5.1, 5.1+ ou 5.3)"
     },
     "Literal_help": {
         "en": "Help",
@@ -159,9 +175,17 @@
         "en": "chart",
         "pt-br": "chart"
     },
+    "Chartdealer_cancel": {
+        "en": "cancel",
+        "pt-br": "cancelar"
+    },
     "Chartdealer_typeTheChartNumber": {
-        "en": "Type the number of the chart you want. (You have 2 minute)",
-        "pt-br": "Digite o número do chart que você quer. (Você tem 2 minuto)"
+        "en": "Type the number of the chart you want. (You have {{time}} {{minuteWord}})",
+        "pt-br": "Digite o número do chart que você quer. (Você tem {{time}} {{minuteWord}})"
+    },
+    "Chartdealer_typeCancel": {
+        "en": "You can type {{cancel}} to cancel the search.",
+        "pt-br": "Digite {{cancel}} para cancelar a pesquisa."
     },
     "Chartdealer_errorNoHigherPage": {
         "en": "There isn't a higher page.",
@@ -266,6 +290,10 @@
     "updatecharts_description": {
         "en": "Updates the charts with the newest content from the spreadsheet, only the bot owner and allowed people can use this command.",
         "pt-br": "Atualiza os charts com o conteudo mais novo do documento de charts, apenas o dono do bot ou pessoas podem usar esse comando."
+    },
+    "Updatecharts_errorGoogleApi": {
+        "en": "Google API error: {{error}}",
+        "pt-br": "Erro no Google API: {{error}}"
     },
     "Updatecharts_errorOnlyAllowedPeople": {
         "en": "Only allowed people.",

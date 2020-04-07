@@ -28,6 +28,17 @@ exports.condition = (bot, message, env) => {
     return
   }
 
+  if (message.author.id !== env.OWNER) {
+    const UserCooldown = MessageUtils.applyCooldown(message.author.id)
+
+    if (UserCooldown > 0) {
+      if (UserCooldown === 4) {
+        Send('Message_errorCooldownWarning', false, { amount: 3 })
+      }
+      return
+    }
+  }
+
   return true
 }
 
@@ -58,7 +69,7 @@ exports.run = async (bot, discord, env, message) => {
         return
       }
     } catch (e) {
-      StepLog.warn(`Error while running condition on command ${ArgsManager.CommandName[0]}, erro: ${e}`)
+      StepLog.warn(`Error while running condition on command ${ArgsManager.CommandName[0]}, error: ${e}`)
     }
   }
 

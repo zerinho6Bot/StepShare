@@ -13,9 +13,13 @@ exports.condition = ({ message, Send, env }) => {
   return true
 }
 
-exports.run = async ({ Send }) => {
-  await ChartsApi.updateCharts()
-  Send('Updatecharts_chartsUpdated')
+exports.run = async ({ Send, i18n }) => {
+  try {
+    await ChartsApi.updateCharts()
+    Send('Updatecharts_chartsUpdated')
+  } catch (e) {
+    Send(i18n.__('Updatecharts_errorGoogleApi', { error: e }))
+  }
 }
 
 exports.helpEmbed = ({ message, helpEmbed, i18n }) => {

@@ -6,9 +6,9 @@ exports.condition = () => {
   return false // No one should use this command, and the bot will directly call run.
 }
 
-exports.run = async ({ message, ArgsManager, FastEmbed, Send, i18n }, propert) => {
+exports.run = async ({ message, ArgsManager, FastEmbed, Send, i18n }, property) => {
   const Literal = ArgsManager.Flag && ArgsManager.Flag[0].toLowerCase() === '--l'
-  const Chart = ChartsApi.chartsByProperty(ArgsManager.Argument.join(' '), propert, Literal)
+  const Chart = ChartsApi.chartsByProperty(ArgsManager.Argument.join(' '), property, Literal)
   let resolvedChart
 
   const ChartsStr = []
@@ -19,15 +19,16 @@ exports.run = async ({ message, ArgsManager, FastEmbed, Send, i18n }, propert) =
   }
 
   const PaginatedCharts = pagination(ChartsStr)
-  FastEmbed.addField(i18n.__('Chartdealer_typeTheChartNumber'), PaginatedCharts[0])
-  FastEmbed.setFooter(`1/${PaginatedCharts.length} ${i18n.__('Global_Pages')}`)
+  const Time = 2
+  FastEmbed.addField(i18n.__('Chartdealer_typeTheChartNumber', { time: Time, minuteWord: Time === 1 ? i18n.__('Global_minute') : i18n.__('Global_minutes') }), PaginatedCharts[0])
+  FastEmbed.setFooter(`1/${PaginatedCharts.length} ${i18n.__('Global_Pages')} • ${i18n.__('Chartdealer_typeCancel', { cancel: i18n.__('Chartdealer_cancel') })}`)
 
   const SentMessage = await Send(FastEmbed, true)
   const Filter = (msg) => !msg.author.bot && msg.author.id === message.author.id
 
   if (PaginatedCharts.length > 1) {
     const ReactionFilter = (reaction, user) => user.id === message.author.id
-    const Collector = SentMessage.createReactionCollector(ReactionFilter, { time: 60000 * 2 })
+    const Collector = SentMessage.createReactionCollector(ReactionFilter, { time: 60000 * Time })
     const MoondanceEmojis = {
       right: '434489417957376013',
       left: '434489301963898882'
@@ -56,8 +57,8 @@ exports.run = async ({ message, ArgsManager, FastEmbed, Send, i18n }, propert) =
       }
 
       FastEmbed.spliceFields(0, 1)
-      FastEmbed.addField(i18n.__('Chartdealer_typeTheChartNumber'), PaginatedCharts[page])
-      FastEmbed.setFooter(`${page + 1}/${PaginatedCharts.length} ${i18n.__('Global_Pages')}`)
+      FastEmbed.addField(i18n.__('Chartdealer_typeTheChartNumber', { time: Time, minuteWord: Time === 1 ? i18n.__('Global_minute') : i18n.__('Global_minutes') }), PaginatedCharts[page])
+      FastEmbed.setFooter(`${page + 1}/${PaginatedCharts.length} ${i18n.__('Global_Pages')} • ${i18n.__('Chartdealer_typeCancel', { cancel: i18n.__('Chartdealer_cancel') })}`)
       SentMessage.edit(FastEmbed)
     })
   }
@@ -66,14 +67,22 @@ exports.run = async ({ message, ArgsManager, FastEmbed, Send, i18n }, propert) =
     const Response = await message.channel.awaitMessages(Filter, { max: 1, time: 60000 * 2, errors: ['time'] })
     const Content = Response.first().content
     const ValidNumbers = ChartsApi.propertyFromChartArray(Chart, 'id')
-    const ParsedContent = Content
 
-    if (!ValidNumbers.includes(ParsedContent)) {
+    if (Content.toLowerCase() === i18n.__('Chartdealer_cancel')) {
+      try {
+        Response.first().react('👍')
+      } catch (e) {
+        StepLog.warn(`Couldn't react to message, error: ${e}`)
+      }
+      return
+    }
+
+    if (!ValidNumbers.includes(Content)) {
       Send('Chartdealer_errorNotValidNumber')
       return
     }
 
-    resolvedChart = ChartsApi.chartFromId(ParsedContent)
+    resolvedChart = ChartsApi.chartFromId(Content)
   } catch (e) {
     Send('Chartdealer_errorWaitResponse')
     StepLog.warn(`Error while waiting response from user, ${e.toString()}`)

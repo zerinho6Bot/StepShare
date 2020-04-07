@@ -2,8 +2,9 @@ const { ChartsManager } = require('../utils/chartsUtils/index.js')
 const ChartsApi = new ChartsManager()
 
 exports.condition = ({ ArgsManager, Send, i18n }) => {
-  if (!ArgsManager.Argument[0]) {
+  if (!ArgsManager.Argument || !ArgsManager.Argument[0]) {
     Send('Global_errorMissingArgument')
+    Send('Help_versionNumber')
     return false
   }
 

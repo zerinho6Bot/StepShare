@@ -1,5 +1,5 @@
 const Commands = require('./index.js')
-exports.run = ({ ArgsManager, FastEmbed, i18n, Send, message }) => {
+exports.run = ({ ArgsManager, FastEmbed, i18n, Send, message, env }) => {
   if (!ArgsManager.Argument) {
     const Advanced = Commands.advanced
     const AdvancedKeys = Object.keys(Advanced)
@@ -7,6 +7,7 @@ exports.run = ({ ArgsManager, FastEmbed, i18n, Send, message }) => {
       const Value = Advanced[AdvancedKeys[i]]
       FastEmbed.addField(`**${i18n.__(`Help_${AdvancedKeys[i]}`)}** (${Value.length})`, `\`\`${Value.join('``, ``')}\`\``)
     }
+    FastEmbed.setDescription(i18n.__('Help_typeWithCommandName', { prefix: env.PREFIX }))
     Send(FastEmbed, true)
     return
   }

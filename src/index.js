@@ -18,7 +18,7 @@ Bot.on('message', (msg) => {
 
 Bot.on('ready', () => {
   StepLog.trace('Firing ready event.')
-  Ready.run()
+  Ready.run(Bot, Env)
 })
 StepLog.info('Logging...')
 Bot.login(Env.TOKEN)

@@ -70,11 +70,26 @@ exports.ChartsManager = class {
    * @returns {Object}
    */
   chartsThatSupportVersion (version) {
+    /*
+    if (version === '5' || version === '5.0' || version === '5.0+') {
+      return this.charts.filter(chart => chart.supports === '5')
+    }
+
+    if (version === '5.1' || version === '5.1+') {
+      return this.charts.filter(chart => chart.supports === '5' || chart.supports === '5.1+')
+    }
+
+    return this.charts
+    */
+
     switch (version) {
       case '5':
-        return this.chartsByProperty(version, 'supports', true)
+      case '5.0':
+      case '5.0+':
+        return this.charts.filter(chart => chart.supports === '5')
+      case '5.1':
       case '5.1+':
-        return this.charts.filter(chart => chart.version === '5' || chart.version === '5.1+')
+        return this.charts.filter(chart => chart.supports === '5' || chart.supports === '5.1+')
       default: // 5.3 supports everything.
         return this.charts
     }
@@ -91,11 +106,16 @@ exports.ChartsManager = class {
     if (!property && (!name || name === '')) {
       return this.charts
     }
+    name = name.toLowerCase()
+
+    if (property === 'supports') {
+      return this.chartsThatSupportVersion(name)
+    }
 
     if (literal) {
-      return this.charts.filter(chart => chart[property] === name)
+      return this.charts.filter(chart => chart[property].toLowerCase() === name)
     }
-    return this.charts.filter(chart => chart[property].includes(name))
+    return this.charts.filter(chart => chart[property].toLowerCase().includes(name))
   }
 
   /**

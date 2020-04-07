@@ -13,6 +13,8 @@ chart results.
 
 ![](https://cdn.discordapp.com/attachments/688182781263609868/693856983530471574/unknown.png)
 
+Official Discord Server: https://discord.gg/VKSevNk
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
