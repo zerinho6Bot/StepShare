@@ -8,6 +8,7 @@ exports.language = require('./language.js')
 exports.allcharts = require('./allcharts.js')
 exports.updatecharts = require('./updatecharts.js')
 exports.eval = require('./eval.js')
+exports.crashlog = require('./crashlog.js')
 
 // Should not be included in help.
 exports.chartdealer = require('./chartdealer.js')
@@ -22,5 +23,6 @@ exports.commandNames = [
   'pack', 'author',
   'version', 'help',
   'language', 'allcharts',
-  'updatecharts', 'eval'
+  'updatecharts', 'eval',
+  'crashlog'
 ]

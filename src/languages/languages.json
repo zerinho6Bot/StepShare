@@ -280,8 +280,8 @@
         "pt-br": "Language"
     },
     "language_description": {
-        "en": "Define the language of the guild or see the available languages.",
-        "pt-br": "Defina a linguagem do servidor ou veja as linguagens disponíveis."
+        "en": "Define the language of the guild or see the available languages.\n\n**This saves your guild id so the bot remembers the defined language, if you want to delete all data, kick the bot out of the server.**",
+        "pt-br": "Defina a linguagem do servidor ou veja as linguagens disponíveis.\n\n**Isso salva o id do servidor para que o bot lembre a linguagem definida, se você quiser deletar a data, expulse o bot do servidor.**"
     },
     "Literal_updatecharts": {
         "en": "UpdateCharts",

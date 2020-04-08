@@ -59,7 +59,13 @@ exports.run = async (bot, discord, env, message) => {
     ArgsManager
   }
   const Command = Commands[ArgsManager.CommandName[0]]
-
+  if (ArgsManager.Flag && ArgsManager.Flag.includes('--d')) {
+    try {
+      Send(JSON.stringify(ArgsManager, null, 2), true)
+    } catch (e) {
+      StepLog.warn(`Couldn't send ArgsManager, error: ${e}`)
+    }
+  }
   if (Command.condition) {
     try {
       const Condition = await Command.condition(Arguments)
