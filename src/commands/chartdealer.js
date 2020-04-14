@@ -97,7 +97,7 @@ exports.run = async ({ message, ArgsManager, FastEmbed, Send, i18n }, property) 
   FastEmbed.setDescription(
     `${i18n.__('Chartdealer_author')}: **${resolvedChart.author}**
     ${i18n.__('Chartdealer_version')}: **${resolvedChart.supports}**
-    Id: **${resolvedChart.id}**
+    ${i18n.__('Chartdealer_id')}: **${resolvedChart.id}**
     ${resolvedChart.pack === '' ? '' : `${i18n.__('Chartdealer_pack')}: ${resolvedChart.pack}`}`
   )
   Send(FastEmbed, true)

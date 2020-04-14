@@ -147,6 +147,10 @@
         "en": "Version Number (5, 5.0, 5.0+, 5.1, 5.1+ or 5.3)",
         "pt-br": "Número da versão (5, 5.0, 5.0+, 5.1, 5.1+ ou 5.3)"
     },
+    "Help_chartId": {
+        "en": "Chart Id",
+        "pt-br": "Chart Id"
+    },
     "Literal_help": {
         "en": "Help",
         "pt-br": "Help"
@@ -158,6 +162,10 @@
     "Chartdealer_errorNoFoundWithThatName": {
         "en": "No {{searchType}} found with that name.",
         "pt-br": "{{searchType}} não encontrado com esse nome."
+    },
+    "Chartdealer_id": {
+        "en": "ID",
+        "pt-br": "ID"
     },
     "Chartdealer_version": {
         "en": "Version",
@@ -326,5 +334,21 @@
     "Eval_Result": {
         "en": "Result",
         "pt-br": "Resultado"
+    },
+    "Literal_id": {
+        "en": "ID",
+        "pt-br": "ID"
+    },
+    "id_description": {
+        "en": "Search a chart by it's ID.(Work in progress)",
+        "pt-br": "Procure um chart pelo ID dele.(Trabalho em progresso)"
+    },
+    "Literal_random": {
+        "en": "Random",
+        "pt-br": "Random"
+    },
+    "random_description": {
+        "en": "Get a random chart to download.(Work in Progress)",
+        "pt-br": "Ache um chart aleatório para baixar.(Trabalho em progresso"
     }
 }
