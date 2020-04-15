@@ -6,7 +6,7 @@ const AllowedPeople = [
 
 exports.condition = ({ message, Send, env }) => {
   if (message.author.id !== env.OWNER && !AllowedPeople.includes(message.author.id)) {
-    Send('Updatecharts_errorOnlyAllowedPeople')
+    Send('Updatecharts_errorOnlyAllowed')
     return false
   }
 

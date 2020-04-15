@@ -11,14 +11,18 @@ exports.eval = require('./eval.js')
 exports.crashlog = require('./crashlog.js')
 exports.id = require('./id.js')
 exports.random = require('./random.js')
+exports.fullcrashlog = require('./fullcrashlog.js')
+exports.chartlist = require('./allcharts.js')
+exports.info = require('./info.js')
 
 // Should not be included in help.
 exports.chartdealer = require('./chartdealer.js')
 //
 
 exports.advanced = {
-  ChartCategory: ['chart', 'pack', 'author', 'version', 'allcharts', 'id', 'random'],
-  MiscCategory: ['avatar', 'help', 'language', 'updatecharts', 'eval']
+  ChartCategory: ['chart', 'pack', 'author', 'version', 'allcharts', 'chartlist', 'id', 'random'],
+  MiscCategory: ['avatar', 'crashlog', 'fullcrashlog'],
+  BotCategory: ['help', 'eval', 'info', 'language', 'updatecharts']
 }
 exports.commandNames = [
   'avatar', 'chart',
@@ -27,5 +31,6 @@ exports.commandNames = [
   'language', 'allcharts',
   'updatecharts', 'eval',
   'crashlog', 'id',
-  'random'
+  'random', 'fullcrashlog',
+  'chartlist', 'info'
 ]

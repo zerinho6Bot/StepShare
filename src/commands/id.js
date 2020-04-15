@@ -24,7 +24,7 @@ exports.helpEmbed = ({ message, helpEmbed, i18n }) => {
     argumentsLength: 1,
     argumentsNeeded: true,
     argumentsFormat: [i18n.__('Help_chartId')],
-    imageExample: 'https://cdn.discordapp.com/attachments/696881817453592577/699714761863987220/unknown.png'
+    imageExample: 'https://cdn.discordapp.com/attachments/696881817453592577/700008383687950406/unknown.png'
   }
 
   return helpEmbed(message, i18n, Options)

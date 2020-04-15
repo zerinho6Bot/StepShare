@@ -52,25 +52,35 @@ exports.run = async ({ message, ArgsManager, FastEmbed, Send, i18n }, property) 
     if (PaginatedCharts.length > 1) {
       pageMessage(SentMessage, ReactFilter, ContentPages, Emotes, { time: Time })
     }
-    const Response = await message.channel.awaitMessages(Filter, { max: 1, time: 60000 * 2, errors: ['time'] })
-    const Content = Response.first().content
-    const ValidNumbers = ChartsApi.propertyFromChartArray(Chart, 'id')
 
-    if (Content.toLowerCase() === i18n.__('Chartdealer_cancel')) {
+    if (ChartsStr.length === 1) {
+      resolvedChart = ChartsApi.chartFromId(Chart[0].id)
       try {
-        Response.first().react('👍')
+        SentMessage.delete()
       } catch (e) {
-        StepLog.warn(`Couldn't react to message, error: ${e}`)
+        StepLog.warn(`Error while deleting the sent message with charts, error: ${e.toString()}`)
       }
-      return
-    }
+    } else {
+      const Response = await message.channel.awaitMessages(Filter, { max: 1, time: 60000 * 2, errors: ['time'] })
+      const Content = Response.first().content
+      const ValidNumbers = ChartsApi.propertyFromChartArray(Chart, 'id')
 
-    if (!ValidNumbers.includes(Content)) {
-      Send('Chartdealer_errorNotValidNumber')
-      return
-    }
+      if (Content.toLowerCase() === i18n.__('Chartdealer_cancel')) {
+        try {
+          Response.first().react('👍')
+        } catch (e) {
+          StepLog.warn(`Couldn't react to message, error: ${e}`)
+        }
+        return
+      }
 
-    resolvedChart = ChartsApi.chartFromId(Content)
+      if (!ValidNumbers.includes(Content)) {
+        Send('Chartdealer_errorNotValidNumber')
+        return
+      }
+
+      resolvedChart = ChartsApi.chartFromId(Content)
+    }
   } catch (e) {
     Send('Chartdealer_errorWaitResponse')
     StepLog.warn(`Error while waiting response from user, ${e.toString()}`)

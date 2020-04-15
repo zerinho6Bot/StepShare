@@ -16,19 +16,16 @@ const AllowedGuilds = [
   '696880932631609395', // Project StepShare
   '255464757610414080' // Stepmania Online
 ]
-exports.condition = async ({ env, message, Send, ArgsManager, bot }) => {
+exports.condition = async ({ ArgsManager, bot, message, Send, env }) => {
   if (!AllowedGuilds.includes(message.guild.id) && message.author.id !== env.OWNER && !AllowedPeople.includes(message.author.id)) {
     Send('Updatecharts_errorOnlyAllowed')
     return false
   }
-
   let messageWithAttachment = {}
 
   if (!ArgsManager.Id) {
     messageWithAttachment = message
   } else {
-    console.log(message.channel.id, typeof message.channel.id)
-    console.log(ArgsManager.Id[1], typeof ArgsManager.Id[1])
     try {
       const RecievedMessage = ArgsManager.Id.length >= 2 ? await getMessage(bot, message.guild.id, ArgsManager.Id[1], ArgsManager.Id[0]) : await getMessage(bot, message.guild.id, message.channel.id, ArgsManager.Id[0])
 
@@ -55,19 +52,9 @@ exports.condition = async ({ env, message, Send, ArgsManager, bot }) => {
   return true
 }
 
-function includesFromArray (strCheck, strArr) {
-  for (let i = 0; i < strArr.length; i++) {
-    if (strCheck.includes(strArr[i])) {
-      return true
-    }
-  }
-
-  return false
-}
-
 const Download = require('download')
 const { pageMessage } = require('../utils/messageUtils/index.js')
-exports.run = async ({ message, Send, ArgsManager, bot }) => {
+exports.run = async ({ message, ArgsManager, bot, Send }) => {
   let recievedMessage = null
   if (ArgsManager.Id) {
     recievedMessage = await getMessage(bot, message.guild.id, !ArgsManager.Id[1] ? message.guild.id : ArgsManager.Id[1], ArgsManager.Id[0])
@@ -82,31 +69,10 @@ exports.run = async ({ message, Send, ArgsManager, bot }) => {
     const FileStream = await Download(Attachment.url)
     const Content = FileStream.toString('utf8')
     const Arr = Content.split('\n')
-    const ReplyArr = []
-    const ImportantLines = [
-      'StepMania5.3-git', 'Compiled 2020',
-      'Memory:', 'Video driver:',
-      'Drive:', 'WaveOut software',
-      'Sound driver:', 'Last seen video driver:',
-      'Card matches', 'Video renderers:',
-      'Renderer Found By SDL:',
-      'Outfox Engine:', 'Graphics Manager:',
-      'WARNING:', 'Current renderer:',
-      'Theme:'
-    ]
-    for (let i = 0; i < Arr.length; i++) {
-      let usefulContent = Arr[i].split(' ')
-      usefulContent.slice(0, 1)
-
-      usefulContent = usefulContent.join(' ')
-      if (includesFromArray(usefulContent, ImportantLines)) {
-        ReplyArr.push(usefulContent)
-      }
-    }
 
     const { pagination } = require('../utils/messageUtils/index.js')
-    const Pages = pagination(ReplyArr, true, 1994)
-    if (ReplyArr.length <= 1) {
+    const Pages = pagination(Arr, true, 1994)
+    if (Arr.length <= 1) {
       Send('Crashlog_errorNoContent')
       return
     }
@@ -135,21 +101,10 @@ exports.run = async ({ message, Send, ArgsManager, bot }) => {
 
 exports.helpEmbed = ({ message, helpEmbed, i18n }) => {
   const Options = {
-    argumentsLength: 0,
-    argumentsNeeded: false,
-    argumentsFormat: [],
-    imageExample: 'https://cdn.discordapp.com/attachments/696881817453592577/699813817038929961/unknown.png'
-  }
-
-  return helpEmbed(message, i18n, Options)
-}
-
-exports.helpEmbed = ({ message, helpEmbed, i18n }) => {
-  const Options = {
     argumentsLength: 2,
     argumentsNeeded: true,
     argumentsFormat: ['Help_messageId', 'Help_channelId'],
-    imageExample: 'https://cdn.discordapp.com/attachments/688182781263609868/700041697349861386/unknown.png'
+    imageExample: 'https://cdn.discordapp.com/attachments/688182781263609868/700041562905641070/unknown.png'
   }
 
   return helpEmbed(message, i18n, Options)

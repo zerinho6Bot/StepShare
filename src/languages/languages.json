@@ -116,8 +116,8 @@
         "pt-br": "Parece que esse comando não tem um embed de ajuda definido para ele."
     },
     "Help_typeWithCommandName": {
-        "en": "**Type {{prefix}}help commandName to see a manual about that command.\nExample: {{prefix}}help avatar**",
-        "pt-br": "**Digite {{prefix}}help nomeDoComando para ver um manual desse comando.\nExemplo: {{prefix}}help avatar**"
+        "en": "**Type \"{{prefix}}help commandName\" to see a manual about that command.\nExample: {{prefix}}help avatar**",
+        "pt-br": "**Digite \"{{prefix}}help nomeDoComando\" para ver um manual desse comando.\nExemplo: {{prefix}}help avatar**"
     },
     "Help_ChartCategory": {
         "en": "Chart Category",
@@ -126,6 +126,10 @@
     "Help_MiscCategory": {
         "en": "Misc Category",
         "pt-br": "Categoria Misc"
+    },
+    "Help_BotCategory": {
+        "en": "Bot Category",
+        "pt-br": "Categoria Bot"
     },
     "Help_commandName": {
         "en": "Command name",
@@ -150,6 +154,14 @@
     "Help_chartId": {
         "en": "Chart Id",
         "pt-br": "Chart Id"
+    },
+    "Help_messageId": {
+        "en": "Message ID",
+        "pt-br": "ID da Mensagem"
+    },
+    "Help_channelId": {
+        "en": "Channel ID",
+        "pt-br": "ID do canal"
     },
     "Literal_help": {
         "en": "Help",
@@ -308,8 +320,8 @@
         "pt-br": "Erro no Google API: {{error}}"
     },
     "Updatecharts_errorOnlyAllowedPeople": {
-        "en": "Only allowed people.",
-        "pt-br": "Apenas pessoas autorizadas"
+        "en": "Only allowed people or servers.",
+        "pt-br": "Apenas pessoas ou servidores autorizados"
     },
     "Updatecharts_chartsUpdated": {
         "en": "Charts updated!",
@@ -360,8 +372,16 @@
         "pt-br": "Crashlog"
     },
     "crashlog_description": {
-        "en": "Shows important lines of the sent crashlog (You need to send the crashlog with the command)",
-        "pt-br": "Mostra linhas importantes do arquivo de crash(Você tem que enviar o arquivo junto com o comando)"
+        "en": "Shows important lines of the sent crashlog (You can send the crashlog with the command)",
+        "pt-br": "Mostra linhas importantes do arquivo de crash(Você pode enviar o arquivo junto com o comando)"
+    },
+    "Crashslog_errorWhileGettingMessage": {
+        "en": "An error happened while trying to get the message.",
+        "pt-br": "Um erro ocorreu enquanto tentava pegar a mensagem."
+    },
+    "Crashlog_errorCouldntFindMessage": {
+        "en": "Could find that message in this channel.",
+        "pt-br": "Não foi possivel achar essa mensagem nesse servidor."
     },
     "Crashlog_errorNoAttachment": {
         "en": "You need to send one attachment with the command.",
@@ -378,5 +398,53 @@
     "Crashlog_errorCouldntDownload": {
         "en": "Couldn't download file, error: {{error}}",
         "pt-br": "Não foi possivel baixar o arquivo, erro: {{error}}"
+    },
+    "Literal_info": {
+        "en": "Info",
+        "pt-br": "Info"
+    },
+    "info_description": {
+        "en": "Shows the bot system info.",
+        "pt-br": "Mostra as informações de sistema do bot."
+    },
+    "Info_Guilds": {
+        "en": "Guilds",
+        "pt-br": "Servidores"
+    },
+    "Info_Users": {
+        "en": "Users",
+        "pt-br": "Usuários"
+    },
+    "Info_DefaultLanguage": {
+        "en": "Default Language",
+        "pt-br": "Linguagem Padrão"
+    },
+    "Info_RamUsage": {
+        "en": "RAM Usage",
+        "pt-br": "Uso de RAM"
+    },
+    "Info_Uptime": {
+        "en": "Uptime",
+        "pt-br": "Tempo acordado"
+    },
+    "Info_Owner": {
+        "en": "Owner",
+        "pt-br": "Dono"
+    },
+    "Info_MBRSS": {
+        "en": "MB(RSS)",
+        "pt-br": "MR(RSS)"
+    },
+    "Info_DiscordJS": {
+        "en": "Discord.js",
+        "pt-br": "Discord.js"
+    },
+    "Literal_fullcrashlog": {
+        "en": "FullCrashLog",
+        "pt-br": "FullCrashLog"
+    },
+    "fullcrashlog_description": {
+        "en": "Search though a full crash log.(You can send an attachment with the command)",
+        "pt-br": "Veja todas as informações de um craslog.(Você pode enviar o arquivo com o comando)"
     }
 }

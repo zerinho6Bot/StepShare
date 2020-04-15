@@ -1,13 +1,7 @@
-/*
-  const { charts } = require('../cache/index.js')
-  const AllCharts = charts.charts
-  const ChartsWithPacks = AllCharts.filter(chart => chart.pack !== '')
-*/
-
 exports.ChartsManager = class {
   constructor () {
-    this.chartsFile = require('../../cache/index.js').charts
-    this.charts = this.chartsFile.charts
+    this.chartsFile = () => { return require('../../cache/index.js').charts }
+    this.charts = this.chartsFile().charts
     this.write = require('../cacheUtils/index.js').Write
     this.env = process.env
   }
@@ -70,26 +64,14 @@ exports.ChartsManager = class {
    * @returns {Object}
    */
   chartsThatSupportVersion (version) {
-    /*
-    if (version === '5' || version === '5.0' || version === '5.0+') {
-      return this.charts.filter(chart => chart.supports === '5')
-    }
-
-    if (version === '5.1' || version === '5.1+') {
-      return this.charts.filter(chart => chart.supports === '5' || chart.supports === '5.1+')
-    }
-
-    return this.charts
-    */
-
     switch (version) {
       case '5':
       case '5.0':
       case '5.0+':
-        return this.charts.filter(chart => chart.supports === '5')
+        return this.charts.filter(chart => chart.supports === '5.0+')
       case '5.1':
       case '5.1+':
-        return this.charts.filter(chart => chart.supports === '5' || chart.supports === '5.1+')
+        return this.charts.filter(chart => chart.supports === '5.0+' || chart.supports === '5.1+')
       default: // 5.3 supports everything.
         return this.charts
     }
@@ -141,7 +123,7 @@ exports.ChartsManager = class {
    */
   changePropertyFromChart (id, property, newValue) {
     this.charts[id - 1][property] = newValue
-    this.write('charts', this.chartsFile)
+    this.write('charts', this.chartsFile())
   }
 
   /**
@@ -158,7 +140,7 @@ exports.ChartsManager = class {
       this.charts[Id - 1].pack = newName
     }
 
-    this.write('charts', this.chartsFile)
+    this.write('charts', this.chartsFile())
   }
 
   /**
@@ -205,8 +187,8 @@ exports.ChartsManager = class {
       })
     }
     StepLog.info('Writing to json file.')
-    this.chartsFile.charts = Charts
-    this.write('charts', this.chartsFile)
+    this.chartsFile().charts = Charts
+    this.write('charts', this.chartsFile())
     this.charts = Charts
   }
 }

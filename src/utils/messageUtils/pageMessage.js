@@ -53,6 +53,6 @@ exports.pageMessage = async (message, filter, contents, emotes, { time, codebloc
     let firstAdditionalContent = codeblock ? '```' : ''
     firstAdditionalContent = firstAdditionalContent === '```' ? language ? `\`\`\`${language}` : '```' : ''
     const FinalAdditionalContent = firstAdditionalContent !== '' ? '```' : ''
-    message.edit(firstAdditionalContent + contents[page] + FinalAdditionalContent)
+    message.edit(firstAdditionalContent === '' ? contents[page] : firstAdditionalContent + contents[page] + FinalAdditionalContent)
   })
 }

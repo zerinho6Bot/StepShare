@@ -5,6 +5,11 @@ exports.run = async ({ ArgsManager, Send, FastEmbed, i18n, message }) => {
   if (!ArgsManager.Argument) {
     ArgsManager.Argument = []
   }
+  if (!ArgsManager.Flag) {
+    ArgsManager.Flag = []
+  }
+
+  ArgsManager.Flag[0] = '--l'
   ArgsManager.Argument[0] = Math.round(Math.random() * ChartsApi.charts.length)
   require('./index.js').chartdealer.run({ message, ArgsManager, FastEmbed, Send, i18n }, 'id')
 }
