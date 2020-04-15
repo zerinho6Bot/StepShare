@@ -187,6 +187,10 @@
         "en": "cancel",
         "pt-br": "cancelar"
     },
+    "Chartdealer_UnknownAuthor": {
+        "en": "Unknown author",
+        "pt-br": "Autor desconhedido"
+    },
     "Chartdealer_typeTheChartNumber": {
         "en": "Type the number of the chart you want. (You have {{time}} {{minuteWord}})",
         "pt-br": "Digite o número do chart que você quer. (Você tem {{time}} {{minuteWord}})"
@@ -350,5 +354,29 @@
     "random_description": {
         "en": "Get a random chart to download.(Work in Progress)",
         "pt-br": "Ache um chart aleatório para baixar.(Trabalho em progresso"
+    },
+    "Literal_crashlog": {
+        "en": "Crashlog",
+        "pt-br": "Crashlog"
+    },
+    "crashlog_description": {
+        "en": "Shows important lines of the sent crashlog (You need to send the crashlog with the command)",
+        "pt-br": "Mostra linhas importantes do arquivo de crash(Você tem que enviar o arquivo junto com o comando)"
+    },
+    "Crashlog_errorNoAttachment": {
+        "en": "You need to send one attachment with the command.",
+        "pt-br": "Você precisa enviar um arquivo com o comando."
+    },
+    "Crashlog_errorAttachmentNotDetected": {
+        "en": "Attachment not detected.",
+        "pt-br": "Arquivo não detectado."
+    },
+    "Crashlog_errorNoContent": {
+        "en": "No relevant content found.",
+        "pt-br": "Nenhum conteudo relevante encontrado."
+    },
+    "Crashlog_errorCouldntDownload": {
+        "en": "Couldn't download file, error: {{error}}",
+        "pt-br": "Não foi possivel baixar o arquivo, erro: {{error}}"
     }
 }

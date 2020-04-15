@@ -5,3 +5,4 @@ exports.getMessage = require('./getMessage.js').getMessage
 exports.helpEmbedFactory = require('./helpEmbedFactory.js').helpEmbedFactory
 exports.argsManager = require('./argsManager.js').ArgsManager
 exports.pagination = require('./pagination.js').Pagination
+exports.pageMessage = require('./pageMessage').pageMessage

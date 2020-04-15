@@ -115,7 +115,6 @@ exports.ChartsManager = class {
     if (literal) {
       return this.charts.filter(chart => chart[property].toLowerCase() === name)
     }
-    console.log(name, property)
     return this.charts.filter(chart => chart[property].toLowerCase().includes(name))
   }
 
