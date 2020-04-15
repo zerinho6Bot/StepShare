@@ -27,8 +27,6 @@ exports.condition = async ({ env, message, Send, ArgsManager, bot }) => {
   if (!ArgsManager.Id) {
     messageWithAttachment = message
   } else {
-    console.log(message.channel.id, typeof message.channel.id)
-    console.log(ArgsManager.Id[1], typeof ArgsManager.Id[1])
     try {
       const RecievedMessage = ArgsManager.Id.length >= 2 ? await getMessage(bot, message.guild.id, ArgsManager.Id[1], ArgsManager.Id[0]) : await getMessage(bot, message.guild.id, message.channel.id, ArgsManager.Id[0])
 
